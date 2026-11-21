@@ -1,4 +1,3 @@
-
 import sys
 from pathlib import Path
 
@@ -104,14 +103,21 @@ default_data, default_supply = SCENARIOS[scenario]
 
 # Use a separate versioned widget key.
 # Never assign directly to a key owned by st.data_editor.
+
 if "allocation_scenario" not in st.session_state:
     st.session_state.allocation_scenario = None
 
 if "editor_version" not in st.session_state:
     st.session_state.editor_version = 0
 
+# Initialize supply_input even if the scenario has not changed.
+if "supply_input" not in st.session_state:
+    st.session_state.supply_input = default_supply
+
 if st.session_state.allocation_scenario != scenario:
-    st.session_state.editor_version += 1
+    if st.session_state.allocation_scenario is not None:
+        st.session_state.editor_version += 1
+
     st.session_state.allocation_scenario = scenario
     st.session_state.supply_input = default_supply
 
