@@ -1,0 +1,990 @@
+timestamp,date,hour,day_of_week,day_name,month,year,sensor_id,apartment,cluster_name,room_number,room_type,type,attached_to,value,aggregated_value
+2022-02-17 10:10:00,2022-02-17,10,3,Thursday,2,2022,S0119,APT_024,CL_D,R033,Living room,cold water consumption,Washbasin,0.3,6.323
+2022-10-03 23:40:00,2022-10-03,23,0,Monday,10,2022,S0204,,,R001,Laundry studio,cold water consumption,Washing machine,0.299,66.669
+2022-10-03 23:30:00,2022-10-03,23,0,Monday,10,2022,S0095,APT_005,CL_A,R024,Kitchen,cold water consumption,Kitchen tap,0.297,95.53
+2020-08-20 21:40:00,2020-08-20,21,3,Thursday,8,2020,S0183,,CL_G,R049,Shared bathroom,cold water consumption,Toilet,0.296,13.865
+2022-02-23 14:00:00,2022-02-23,14,2,Wednesday,2,2022,S0143,,CL_D,R040,Shared bathroom,cold water consumption,Shower,0.296,72.503
+2022-10-03 23:30:00,2022-10-03,23,0,Monday,10,2022,S0129,APT_004,CL_D,R034,Living room,cold water consumption,Kitchen tap,0.295,5.411
+2020-08-20 22:20:00,2020-08-20,22,3,Thursday,8,2020,S0070,APT_018,CL_B,R015,Living room,cold water consumption,Washbasin,0.294,8.411
+2022-02-23 13:50:00,2022-02-23,13,2,Wednesday,2,2022,S0175,,CL_G,R041,Shared space,cold water consumption,Kitchen tap,0.294,88.883
+2022-02-23 14:00:00,2022-02-23,14,2,Wednesday,2,2022,S0138,,CL_D,R032,Shared space,hot water consumption,Kitchen tap,0.293,89.856
+2022-02-23 14:00:00,2022-02-23,14,2,Wednesday,2,2022,S0085,APT_002,CL_F,R023,Shared space,cold water consumption,Kitchen tap,0.292,69.209
+2022-10-03 23:30:00,2022-10-03,23,0,Monday,10,2022,S0078,APT_023,CL_B,R016,Living room,cold water consumption,Toilet,0.291,41.7
+2022-02-17 10:10:00,2022-02-17,10,3,Thursday,2,2022,S0150,APT_028,CL_D,R038,Living room,cold water consumption,Kitchen tap,0.291,5.017
+2020-03-30 08:30:00,2020-03-30,8,0,Monday,3,2020,S0086,APT_002,CL_F,R022,Bathroom,cold water consumption,Toilet,0.289,55.783
+2022-10-03 23:30:00,2022-10-03,23,0,Monday,10,2022,S0132,APT_024,CL_D,R033,Living room,cold water consumption,Toilet,0.283,30.383
+2022-10-03 23:30:00,2022-10-03,23,0,Monday,10,2022,S0128,APT_024,CL_D,R033,Living room,hot water consumption,Kitchen tap,0.283,5.785
+2022-02-17 10:10:00,2022-02-17,10,3,Thursday,2,2022,S0099,APT_006,CL_I,R026,Bathroom,cold water consumption,Shower,0.282,6.466
+2020-04-23 16:00:00,2020-04-23,16,3,Thursday,4,2020,S0094,APT_005,CL_A,R024,Kitchen,hot water consumption,Kitchen tap,0.282,55.349
+2020-04-23 16:00:00,2020-04-23,16,3,Thursday,4,2020,S0095,APT_005,CL_A,R024,Kitchen,cold water consumption,Kitchen tap,0.281,71.939
+2022-02-17 10:10:00,2022-02-17,10,3,Thursday,2,2022,S0200,,,R002,Bathroom,cold water consumption,Washbasin,0.281,9.229
+2020-04-23 15:50:00,2020-04-23,15,3,Thursday,4,2020,S0180,,CL_G,R049,Shared bathroom,hot water consumption,Shower,0.28,86.478
+2020-08-20 22:00:00,2020-08-20,22,3,Thursday,8,2020,S0063,,CL_B,R021,Shared bathroom,cold water consumption,Toilet,0.28,22.585
+2020-08-20 21:50:00,2020-08-20,21,3,Thursday,8,2020,S0198,,,R001,Laundry studio,cold water consumption,Washing machine,0.279,1.063
+2023-01-09 13:20:00,2023-01-09,13,0,Monday,1,2023,S0106,APT_017,CL_E,R031,Shared space,hot water consumption,Kitchen tap,0.279,120.466
+2022-02-23 14:00:00,2022-02-23,14,2,Wednesday,2,2022,S0158,APT_028,CL_D,R038,Living room,cold water consumption,Toilet,0.276,26.97
+2022-07-29 20:30:00,2022-07-29,20,4,Friday,7,2022,S0195,APT_008,CL_G,R043,Living room,cold water consumption,Toilet,0.276,22.61
+2022-08-19 06:10:00,2022-08-19,6,4,Friday,8,2022,S0195,APT_008,CL_G,R043,Living room,cold water consumption,Toilet,0.274,22.884
+2022-10-03 23:30:00,2022-10-03,23,0,Monday,10,2022,S0205,,,R001,Laundry studio,hot water consumption,Washing machine,0.271,15.888
+2022-02-23 14:00:00,2022-02-23,14,2,Wednesday,2,2022,S0113,APT_003,CL_C,R028,Bathroom,cold water consumption,Shower,0.271,65.99
+2020-04-23 15:50:00,2020-04-23,15,3,Thursday,4,2020,S0061,,CL_B,R021,Shared bathroom,hot water consumption,Shower,0.27,32.149
+2020-10-10 21:40:00,2020-10-10,21,5,Saturday,10,2020,S0208,,,R003,Bathroom,cold water consumption,Washbasin,0.268,17.363
+2020-03-30 08:30:00,2020-03-30,8,0,Monday,3,2020,S0087,APT_002,CL_F,R022,Bathroom,cold water consumption,Washing machine,0.265,29.618
+2022-10-03 23:40:00,2022-10-03,23,0,Monday,10,2022,S0191,APT_008,CL_G,R043,Living room,hot water consumption,Kitchen tap,0.264,5.677
+2022-10-03 23:30:00,2022-10-03,23,0,Monday,10,2022,S0076,APT_013,CL_B,R014,Living room,cold water consumption,Kitchen tap,0.263,7.935
+2022-02-17 10:10:00,2022-02-17,10,3,Thursday,2,2022,S0129,APT_004,CL_D,R034,Living room,cold water consumption,Kitchen tap,0.262,4.213
+2020-08-20 22:00:00,2020-08-20,22,3,Thursday,8,2020,S0145,,CL_D,R039,Shared bathroom,cold water consumption,Shower,0.261,52.76
+2022-02-23 14:00:00,2022-02-23,14,2,Wednesday,2,2022,S0132,APT_024,CL_D,R033,Living room,cold water consumption,Toilet,0.259,26.1
+2022-10-06 10:10:00,2022-10-06,10,3,Thursday,10,2022,S0086,APT_002,CL_F,R022,Bathroom,cold water consumption,Toilet,0.256,115.172
+2022-02-17 10:00:00,2022-02-17,10,3,Thursday,2,2022,S0133,APT_025,CL_D,R036,Living room,cold water consumption,Kitchen tap,0.255,0.904
+2020-08-20 22:00:00,2020-08-20,22,3,Thursday,8,2020,S0192,APT_008,CL_G,R043,Living room,cold water consumption,Kitchen tap,0.255,2.513
+2022-10-03 23:30:00,2022-10-03,23,0,Monday,10,2022,S0060,,CL_B,R020,Shared bathroom,cold water consumption,Shower,0.253,38.517
+2022-02-17 10:10:00,2022-02-17,10,3,Thursday,2,2022,S0154,APT_019,CL_D,R037,Living room,cold water consumption,Washbasin,0.252,12.274
+2022-10-03 23:30:00,2022-10-03,23,0,Monday,10,2022,S0045,APT_016,CL_B,R019,Living room,hot water consumption,Washbasin,0.25,9.099
+2022-02-23 14:00:00,2022-02-23,14,2,Wednesday,2,2022,S0107,APT_017,CL_E,R031,Shared space,cold water consumption,Kitchen tap,0.249,110.233
+2022-10-03 23:30:00,2022-10-03,23,0,Monday,10,2022,S0063,,CL_B,R021,Shared bathroom,cold water consumption,Toilet,0.248,28.054
+2022-10-03 23:30:00,2022-10-03,23,0,Monday,10,2022,S0162,APT_020,CL_G,R046,Living room,cold water consumption,Kitchen tap,0.248,13.31
+2022-02-23 14:00:00,2022-02-23,14,2,Wednesday,2,2022,S0179,,CL_G,R048,Shared bathroom,cold water consumption,Shower,0.247,66.302
+2020-04-19 06:50:00,2020-04-19,6,6,Sunday,4,2020,S0094,APT_005,CL_A,R024,Kitchen,hot water consumption,Kitchen tap,0.246,54.964
+2020-08-20 22:00:00,2020-08-20,22,3,Thursday,8,2020,S0064,,CL_B,R020,Shared bathroom,cold water consumption,Toilet,0.245,12.923
+2020-04-19 06:50:00,2020-04-19,6,6,Sunday,4,2020,S0112,APT_003,CL_C,R028,Bathroom,hot water consumption,Shower,0.244,82.874
+2022-10-06 10:00:00,2022-10-06,10,3,Thursday,10,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.242,132.177
+2020-04-23 16:00:00,2020-04-23,16,3,Thursday,4,2020,S0087,APT_002,CL_F,R022,Bathroom,cold water consumption,Washing machine,0.242,31.233
+2020-04-23 16:00:00,2020-04-23,16,3,Thursday,4,2020,S0113,APT_003,CL_C,R028,Bathroom,cold water consumption,Shower,0.242,40.157
+2020-08-20 21:50:00,2020-08-20,21,3,Thursday,8,2020,S0057,APT_012,CL_B,R017,Living room,hot water consumption,Washbasin,0.241,8.991
+2020-04-23 15:50:00,2020-04-23,15,3,Thursday,4,2020,S0101,APT_005,CL_A,R025,Bathroom,cold water consumption,Toilet,0.241,95.604
+2022-02-23 14:00:00,2022-02-23,14,2,Wednesday,2,2022,S0077,APT_018,CL_B,R015,Living room,cold water consumption,Toilet,0.24,38.888
+2022-10-03 23:30:00,2022-10-03,23,0,Monday,10,2022,S0043,APT_014,CL_B,R018,Living room,hot water consumption,Washbasin,0.24,22.545
+2020-03-30 08:30:00,2020-03-30,8,0,Monday,3,2020,S0207,,,R001,Laundry studio,cold water consumption,Washing machine,0.239,62.279
+2020-08-20 22:00:00,2020-08-20,22,3,Thursday,8,2020,S0121,APT_004,CL_D,R034,Living room,cold water consumption,Washbasin,0.239,8.78
+2022-02-17 10:10:00,2022-02-17,10,3,Thursday,2,2022,S0151,APT_019,CL_D,R037,Living room,hot water consumption,Kitchen tap,0.238,4.097
+2022-10-03 23:40:00,2022-10-03,23,0,Monday,10,2022,S0093,APT_005,CL_A,R025,Bathroom,cold water consumption,Washbasin,0.237,32.824
+2022-10-03 23:40:00,2022-10-03,23,0,Monday,10,2022,S0034,APT_022,CL_H,R009,Living room,cold water consumption,Washbasin,0.237,13.503
+2022-10-03 23:30:00,2022-10-03,23,0,Monday,10,2022,S0159,APT_007,CL_G,R047,Living room,hot water consumption,Kitchen tap,0.237,11.582
+2020-08-20 22:20:00,2020-08-20,22,3,Thursday,8,2020,S0111,APT_003,CL_C,R028,Bathroom,cold water consumption,Washbasin,0.236,44.333
+2022-02-17 10:10:00,2022-02-17,10,3,Thursday,2,2022,S0009,APT_026,CL_H,R007,Living room,cold water consumption,Kitchen tap,0.235,10.779
+2022-02-17 10:10:00,2022-02-17,10,3,Thursday,2,2022,S0002,APT_010,CL_H,R006,Living room,cold water consumption,Washbasin,0.235,15.77
+2020-08-20 22:00:00,2020-08-20,22,3,Thursday,8,2020,S0067,APT_023,CL_B,R016,Living room,hot water consumption,Kitchen tap,0.234,2.957
+2022-10-03 23:30:00,2022-10-03,23,0,Monday,10,2022,S0005,APT_010,CL_H,R006,Living room,cold water consumption,Toilet,0.233,13.249
+2022-02-17 10:10:00,2022-02-17,10,3,Thursday,2,2022,S0165,APT_007,CL_G,R047,Living room,hot water consumption,Washbasin,0.233,3.512
+2022-10-06 10:10:00,2022-10-06,10,3,Thursday,10,2022,S0145,,CL_D,R039,Shared bathroom,cold water consumption,Shower,0.23,84.705
+2022-06-07 07:50:00,2022-06-07,7,1,Tuesday,6,2022,S0109,APT_017,CL_E,R030,Bathroom,cold water consumption,Toilet,0.229,194.595
+2022-02-17 10:10:00,2022-02-17,10,3,Thursday,2,2022,S0162,APT_020,CL_G,R046,Living room,cold water consumption,Kitchen tap,0.227,12.688
+2020-01-21 23:50:00,2020-01-21,23,1,Tuesday,1,2020,S0112,APT_003,CL_C,R028,Bathroom,hot water consumption,Shower,0.226,70.856
+2022-02-23 13:50:00,2022-02-23,13,2,Wednesday,2,2022,S0174,,CL_G,R041,Shared space,hot water consumption,Kitchen tap,0.225,105.515
+2022-02-23 14:00:00,2022-02-23,14,2,Wednesday,2,2022,S0181,,CL_G,R049,Shared bathroom,cold water consumption,Shower,0.223,76.93
+2022-02-17 10:10:00,2022-02-17,10,3,Thursday,2,2022,S0170,,CL_G,R048,Shared bathroom,hot water consumption,Washbasin,0.222,2.729
+2022-08-19 06:10:00,2022-08-19,6,4,Friday,8,2022,S0196,APT_011,CL_G,R044,Living room,cold water consumption,Toilet,0.222,32.901
+2022-02-17 10:10:00,2022-02-17,10,3,Thursday,2,2022,S0168,,CL_G,R049,Shared bathroom,hot water consumption,Washbasin,0.221,1.643
+2022-02-17 10:00:00,2022-02-17,10,3,Thursday,2,2022,S0134,APT_025,CL_D,R036,Living room,cold water consumption,Kitchen tap,0.22,5.211
+2022-02-17 10:10:00,2022-02-17,10,3,Thursday,2,2022,S0214,,,R003,Bathroom,hot water consumption,Washbasin,0.219,4.506
+2020-04-23 16:00:00,2020-04-23,16,3,Thursday,4,2020,S0175,,CL_G,R041,Shared space,cold water consumption,Kitchen tap,0.219,57.83
+2022-02-23 14:00:00,2022-02-23,14,2,Wednesday,2,2022,S0104,APT_017,CL_E,R030,Bathroom,hot water consumption,Shower,0.218,94.894
+2020-04-23 15:50:00,2020-04-23,15,3,Thursday,4,2020,S0083,APT_002,CL_F,R022,Bathroom,cold water consumption,Shower,0.217,26.336
+2022-10-03 23:30:00,2022-10-03,23,0,Monday,10,2022,S0074,APT_013,CL_B,R014,Living room,cold water consumption,Washbasin,0.217,7.612
+2020-08-20 22:00:00,2020-08-20,22,3,Thursday,8,2020,S0190,APT_011,CL_G,R044,Living room,cold water consumption,Kitchen tap,0.216,2.786
+2021-01-12 03:00:00,2021-01-12,3,1,Tuesday,1,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.215,33.084
+2022-07-06 01:10:00,2022-07-06,1,2,Wednesday,7,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.214,116.306
+2022-04-18 06:30:00,2022-04-18,6,0,Monday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.213,107.209
+2022-02-17 10:10:00,2022-02-17,10,3,Thursday,2,2022,S0209,,,R001,Laundry studio,hot water consumption,Washbasin,0.213,10.66
+2021-01-12 02:30:00,2021-01-12,2,1,Tuesday,1,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.213,32.762
+2021-11-13 16:00:00,2021-11-13,16,5,Saturday,11,2021,S0210,,,R001,Laundry studio,cold water consumption,Washbasin,0.212,22.481
+2021-11-12 01:10:00,2021-11-12,1,4,Friday,11,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.212,54.678
+2022-02-17 10:10:00,2022-02-17,10,3,Thursday,2,2022,S0189,APT_011,CL_G,R044,Living room,hot water consumption,Kitchen tap,0.212,0.91
+2022-02-23 14:00:00,2022-02-23,14,2,Wednesday,2,2022,S0115,APT_003,CL_C,R029,Shared space,cold water consumption,Kitchen tap,0.211,67.283
+2022-02-17 10:10:00,2022-02-17,10,3,Thursday,2,2022,S0188,APT_011,CL_G,R044,Living room,cold water consumption,Washbasin,0.211,3.112
+2022-10-03 23:40:00,2022-10-03,23,0,Monday,10,2022,S0032,APT_022,CL_H,R009,Living room,cold water consumption,Kitchen tap,0.211,12.818
+2021-03-22 04:00:00,2021-03-22,4,0,Monday,3,2021,S0101,APT_005,CL_A,R025,Bathroom,cold water consumption,Toilet,0.211,142.703
+2022-04-17 01:10:00,2022-04-17,1,6,Sunday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.21,88.905
+2020-08-20 22:00:00,2020-08-20,22,3,Thursday,8,2020,S0068,APT_023,CL_B,R016,Living room,cold water consumption,Kitchen tap,0.21,3.787
+2022-04-17 00:10:00,2022-04-17,0,6,Sunday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.209,88.28
+2022-10-03 23:30:00,2022-10-03,23,0,Monday,10,2022,S0147,,CL_D,R039,Shared bathroom,cold water consumption,Toilet,0.208,13.011
+2022-05-30 14:20:00,2022-05-30,14,0,Monday,5,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.207,113.432
+2022-05-30 14:00:00,2022-05-30,14,0,Monday,5,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.207,113.225
+2022-04-16 23:50:00,2022-04-16,23,5,Saturday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.207,88.071
+2020-03-30 08:20:00,2020-03-30,8,0,Monday,3,2020,S0178,,CL_G,R048,Shared bathroom,hot water consumption,Shower,0.206,80.039
+2022-02-17 10:00:00,2022-02-17,10,3,Thursday,2,2022,S0183,,CL_G,R049,Shared bathroom,cold water consumption,Toilet,0.205,17.195
+2020-08-20 21:50:00,2020-08-20,21,3,Thursday,8,2020,S0001,APT_010,CL_H,R006,Living room,hot water consumption,Washbasin,0.205,6.183
+2022-04-16 19:50:00,2022-04-16,19,5,Saturday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.205,85.591
+2021-11-11 17:30:00,2021-11-11,17,3,Thursday,11,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.204,49.941
+2022-02-17 10:10:00,2022-02-17,10,3,Thursday,2,2022,S0213,,,R002,Bathroom,hot water consumption,Washbasin,0.204,4.447
+2021-09-30 13:40:00,2021-09-30,13,3,Thursday,9,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.203,45.008
+2021-01-12 08:00:00,2021-01-12,8,1,Tuesday,1,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.202,36.199
+2020-08-20 21:50:00,2020-08-20,21,3,Thursday,8,2020,S0213,,,R002,Bathroom,hot water consumption,Washbasin,0.202,3.043
+2021-01-12 09:30:00,2021-01-12,9,1,Tuesday,1,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.202,37.113
+2022-02-23 14:00:00,2022-02-23,14,2,Wednesday,2,2022,S0099,APT_006,CL_I,R026,Bathroom,cold water consumption,Shower,0.2,6.666
+2021-03-20 14:40:00,2021-03-20,14,5,Saturday,3,2021,S0101,APT_005,CL_A,R025,Bathroom,cold water consumption,Toilet,0.2,127.676
+2020-08-20 21:50:00,2020-08-20,21,3,Thursday,8,2020,S0134,APT_025,CL_D,R036,Living room,cold water consumption,Kitchen tap,0.198,4.22
+2022-02-23 14:00:00,2022-02-23,14,2,Wednesday,2,2022,S0086,APT_002,CL_F,R022,Bathroom,cold water consumption,Toilet,0.197,98.554
+2020-03-30 08:30:00,2020-03-30,8,0,Monday,3,2020,S0114,APT_003,CL_C,R029,Shared space,hot water consumption,Kitchen tap,0.197,36.542
+2023-01-09 13:20:00,2023-01-09,13,0,Monday,1,2023,S0145,,CL_D,R039,Shared bathroom,cold water consumption,Shower,0.196,91.755
+2022-02-17 10:10:00,2022-02-17,10,3,Thursday,2,2022,S0164,APT_020,CL_G,R046,Living room,cold water consumption,Washbasin,0.196,12.85
+2020-03-30 08:30:00,2020-03-30,8,0,Monday,3,2020,S0181,,CL_G,R049,Shared bathroom,cold water consumption,Shower,0.195,39.406
+2022-02-23 14:00:00,2022-02-23,14,2,Wednesday,2,2022,S0096,APT_005,CL_A,R025,Bathroom,hot water consumption,Shower,0.195,55.195
+2021-03-05 17:20:00,2021-03-05,17,4,Friday,3,2021,S0180,,CL_G,R049,Shared bathroom,hot water consumption,Shower,0.194,132.49
+2022-02-17 10:10:00,2022-02-17,10,3,Thursday,2,2022,S0064,,CL_B,R020,Shared bathroom,cold water consumption,Toilet,0.194,14.162
+2022-10-03 23:30:00,2022-10-03,23,0,Monday,10,2022,S0183,,CL_G,R049,Shared bathroom,cold water consumption,Toilet,0.193,18.016
+2020-03-30 08:30:00,2020-03-30,8,0,Monday,3,2020,S0095,APT_005,CL_A,R024,Kitchen,cold water consumption,Kitchen tap,0.192,70.14
+2022-10-03 23:30:00,2022-10-03,23,0,Monday,10,2022,S0089,APT_006,CL_I,R027,Kitchen,cold water consumption,Kitchen tap,0.191,7.385
+2020-04-23 16:00:00,2020-04-23,16,3,Thursday,4,2020,S0144,,CL_D,R040,Shared bathroom,hot water consumption,Shower,0.191,73.628
+2020-04-23 16:00:00,2020-04-23,16,3,Thursday,4,2020,S0055,APT_012,CL_B,R017,Living room,hot water consumption,Kitchen tap,0.19,12.513
+2022-02-23 14:00:00,2022-02-23,14,2,Wednesday,2,2022,S0078,APT_023,CL_B,R016,Living room,cold water consumption,Toilet,0.19,36.739
+2022-10-06 10:10:00,2022-10-06,10,3,Thursday,10,2022,S0109,APT_017,CL_E,R030,Bathroom,cold water consumption,Toilet,0.19,209.933
+2022-06-07 08:10:00,2022-06-07,8,1,Tuesday,6,2022,S0085,APT_002,CL_F,R023,Shared space,cold water consumption,Kitchen tap,0.189,80.275
+2022-02-17 10:10:00,2022-02-17,10,3,Thursday,2,2022,S0066,APT_023,CL_B,R016,Living room,cold water consumption,Washbasin,0.189,8.53
+2023-01-09 13:30:00,2023-01-09,13,0,Monday,1,2023,S0078,APT_023,CL_B,R016,Living room,cold water consumption,Toilet,0.189,43.993
+2022-10-03 23:30:00,2022-10-03,23,0,Monday,10,2022,S0099,APT_006,CL_I,R026,Bathroom,cold water consumption,Shower,0.189,7.16
+2020-03-30 08:30:00,2020-03-30,8,0,Monday,3,2020,S0106,APT_017,CL_E,R031,Shared space,hot water consumption,Kitchen tap,0.189,39.74
+2022-10-03 23:30:00,2022-10-03,23,0,Monday,10,2022,S0049,,CL_B,R020,Shared bathroom,hot water consumption,Washbasin,0.189,1.835
+2022-02-17 10:10:00,2022-02-17,10,3,Thursday,2,2022,S0001,APT_010,CL_H,R006,Living room,hot water consumption,Washbasin,0.188,7.864
+2022-10-03 23:30:00,2022-10-03,23,0,Monday,10,2022,S0188,APT_011,CL_G,R044,Living room,cold water consumption,Washbasin,0.188,3.905
+2022-06-07 08:10:00,2022-06-07,8,1,Tuesday,6,2022,S0086,APT_002,CL_F,R022,Bathroom,cold water consumption,Toilet,0.188,107.289
+2022-02-17 10:10:00,2022-02-17,10,3,Thursday,2,2022,S0074,APT_013,CL_B,R014,Living room,cold water consumption,Washbasin,0.187,7.146
+2021-01-12 22:30:00,2021-01-12,22,1,Tuesday,1,2021,S0061,,CL_B,R021,Shared bathroom,hot water consumption,Shower,0.187,48.314
+2022-02-23 14:00:00,2022-02-23,14,2,Wednesday,2,2022,S0081,APT_002,CL_F,R022,Bathroom,cold water consumption,Washbasin,0.186,26.544
+2023-01-09 13:30:00,2023-01-09,13,0,Monday,1,2023,S0062,,CL_B,R021,Shared bathroom,cold water consumption,Shower,0.186,71.724
+2022-02-17 10:10:00,2022-02-17,10,3,Thursday,2,2022,S0149,APT_028,CL_D,R038,Living room,hot water consumption,Kitchen tap,0.186,2.396
+2020-08-20 22:00:00,2020-08-20,22,3,Thursday,8,2020,S0146,,CL_D,R039,Shared bathroom,cold water consumption,Toilet,0.185,19.661
+2022-02-17 10:10:00,2022-02-17,10,3,Thursday,2,2022,S0020,,CL_H,R011,Shared bathroom,cold water consumption,Washbasin,0.185,4.878
+2020-10-10 04:20:00,2020-10-10,4,5,Saturday,10,2020,S0208,,,R003,Bathroom,cold water consumption,Washbasin,0.184,8.103
+2020-08-20 21:50:00,2020-08-20,21,3,Thursday,8,2020,S0210,,,R001,Laundry studio,cold water consumption,Washbasin,0.183,14.403
+2022-10-03 23:40:00,2022-10-03,23,0,Monday,10,2022,S0211,,,R004,Cleaning,cold water consumption,Washbasin,0.183,17.348
+2020-10-12 01:50:00,2020-10-12,1,0,Monday,10,2020,S0208,,,R003,Bathroom,cold water consumption,Washbasin,0.183,32.442
+2020-10-11 02:30:00,2020-10-11,2,6,Sunday,10,2020,S0208,,,R003,Bathroom,cold water consumption,Washbasin,0.182,19.972
+2020-10-10 08:00:00,2020-10-10,8,5,Saturday,10,2020,S0208,,,R003,Bathroom,cold water consumption,Washbasin,0.182,10.118
+2020-04-23 15:50:00,2020-04-23,15,3,Thursday,4,2020,S0197,APT_021,CL_G,R042,Living room,cold water consumption,Toilet,0.181,18.92
+2022-02-17 10:10:00,2022-02-17,10,3,Thursday,2,2022,S0030,APT_001,CL_H,R010,Living room,cold water consumption,Kitchen tap,0.179,1.633
+2020-10-11 22:00:00,2020-10-11,22,6,Sunday,10,2020,S0208,,,R003,Bathroom,cold water consumption,Washbasin,0.179,30.343
+2020-10-10 08:20:00,2020-10-10,8,5,Saturday,10,2020,S0208,,,R003,Bathroom,cold water consumption,Washbasin,0.179,10.297
+2022-10-03 23:30:00,2022-10-03,23,0,Monday,10,2022,S0194,APT_021,CL_G,R042,Living room,cold water consumption,Kitchen tap,0.179,13.596
+2022-02-23 14:00:00,2022-02-23,14,2,Wednesday,2,2022,S0139,,CL_D,R032,Shared space,cold water consumption,Kitchen tap,0.179,65.028
+2020-04-23 15:50:00,2020-04-23,15,3,Thursday,4,2020,S0211,,,R004,Cleaning,cold water consumption,Washbasin,0.179,10.158
+2020-04-23 15:50:00,2020-04-23,15,3,Thursday,4,2020,S0085,APT_002,CL_F,R023,Shared space,cold water consumption,Kitchen tap,0.179,39.183
+2022-10-03 23:30:00,2022-10-03,23,0,Monday,10,2022,S0103,APT_017,CL_E,R030,Bathroom,cold water consumption,Washbasin,0.179,31.733
+2020-10-10 23:20:00,2020-10-10,23,5,Saturday,10,2020,S0208,,,R003,Bathroom,cold water consumption,Washbasin,0.179,18.257
+2023-01-09 13:20:00,2023-01-09,13,0,Monday,1,2023,S0107,APT_017,CL_E,R031,Shared space,cold water consumption,Kitchen tap,0.178,128.802
+2023-01-09 13:20:00,2023-01-09,13,0,Monday,1,2023,S0158,APT_028,CL_D,R038,Living room,cold water consumption,Toilet,0.177,35.917
+2022-02-23 14:00:00,2022-02-23,14,2,Wednesday,2,2022,S0088,APT_006,CL_I,R027,Kitchen,hot water consumption,Kitchen tap,0.177,8.326
+2022-10-06 10:10:00,2022-10-06,10,3,Thursday,10,2022,S0180,,CL_G,R049,Shared bathroom,hot water consumption,Shower,0.176,170.178
+2020-08-20 22:00:00,2020-08-20,22,3,Thursday,8,2020,S0185,APT_008,CL_G,R043,Living room,hot water consumption,Washbasin,0.176,1.97
+2022-10-03 23:30:00,2022-10-03,23,0,Monday,10,2022,S0039,APT_016,CL_B,R019,Living room,hot water consumption,Kitchen tap,0.175,10.081
+2022-02-17 10:10:00,2022-02-17,10,3,Thursday,2,2022,S0169,,CL_G,R049,Shared bathroom,cold water consumption,Washbasin,0.175,2.902
+2022-02-17 10:10:00,2022-02-17,10,3,Thursday,2,2022,S0173,APT_015,CL_G,R045,Living room,cold water consumption,Kitchen tap,0.175,6.134
+2020-04-23 16:00:00,2020-04-23,16,3,Thursday,4,2020,S0204,,,R001,Laundry studio,cold water consumption,Washing machine,0.175,40.931
+2020-04-23 15:50:00,2020-04-23,15,3,Thursday,4,2020,S0021,,CL_H,R005,Shared space,hot water consumption,Kitchen tap,0.174,31.216
+2022-11-30 12:10:00,2022-11-30,12,2,Wednesday,11,2022,S0142,,CL_D,R039,Shared bathroom,hot water consumption,Shower,0.172,167.647
+2022-04-24 14:20:00,2022-04-24,14,6,Sunday,4,2022,S0142,,CL_D,R039,Shared bathroom,hot water consumption,Shower,0.172,137.483
+2022-03-21 17:30:00,2022-03-21,17,0,Monday,3,2022,S0142,,CL_D,R039,Shared bathroom,hot water consumption,Shower,0.171,132.99
+2022-08-12 11:10:00,2022-08-12,11,4,Friday,8,2022,S0112,APT_003,CL_C,R028,Bathroom,hot water consumption,Shower,0.171,145.255
+2022-02-23 14:00:00,2022-02-23,14,2,Wednesday,2,2022,S0087,APT_002,CL_F,R022,Bathroom,cold water consumption,Washing machine,0.17,61.097
+2020-08-20 21:50:00,2020-08-20,21,3,Thursday,8,2020,S0066,APT_023,CL_B,R016,Living room,cold water consumption,Washbasin,0.169,5.861
+2020-08-20 21:40:00,2020-08-20,21,3,Thursday,8,2020,S0132,APT_024,CL_D,R033,Living room,cold water consumption,Toilet,0.169,14.823
+2022-02-17 10:10:00,2022-02-17,10,3,Thursday,2,2022,S0190,APT_011,CL_G,R044,Living room,cold water consumption,Kitchen tap,0.169,3.663
+2022-08-12 11:10:00,2022-08-12,11,4,Friday,8,2022,S0207,,,R001,Laundry studio,cold water consumption,Washing machine,0.168,117.92
+2023-01-09 13:20:00,2023-01-09,13,0,Monday,1,2023,S0178,,CL_G,R048,Shared bathroom,hot water consumption,Shower,0.168,127.266
+2022-10-06 10:00:00,2022-10-06,10,3,Thursday,10,2022,S0199,,,R002,Bathroom,cold water consumption,Toilet,0.168,30.525
+2022-02-17 10:00:00,2022-02-17,10,3,Thursday,2,2022,S0182,,CL_G,R048,Shared bathroom,cold water consumption,Toilet,0.167,16.733
+2023-01-09 13:20:00,2023-01-09,13,0,Monday,1,2023,S0007,APT_010,CL_H,R006,Living room,cold water consumption,Toilet,0.167,50.613
+2020-04-20 03:00:00,2020-04-20,3,0,Monday,4,2020,S0117,APT_003,CL_C,R028,Bathroom,cold water consumption,Washing machine,0.167,60.863
+2022-02-23 14:00:00,2022-02-23,14,2,Wednesday,2,2022,S0117,APT_003,CL_C,R028,Bathroom,cold water consumption,Washing machine,0.166,84.214
+2022-10-03 23:30:00,2022-10-03,23,0,Monday,10,2022,S0021,,CL_H,R005,Shared space,hot water consumption,Kitchen tap,0.166,49.27
+2022-02-23 14:00:00,2022-02-23,14,2,Wednesday,2,2022,S0204,,,R001,Laundry studio,cold water consumption,Washing machine,0.166,64.045
+2022-02-23 14:00:00,2022-02-23,14,2,Wednesday,2,2022,S0197,APT_021,CL_G,R042,Living room,cold water consumption,Toilet,0.166,33.265
+2022-02-27 18:40:00,2022-02-27,18,6,Sunday,2,2022,S0142,,CL_D,R039,Shared bathroom,hot water consumption,Shower,0.166,128.795
+2021-03-01 22:50:00,2021-03-01,22,0,Monday,3,2021,S0061,,CL_B,R021,Shared bathroom,hot water consumption,Shower,0.165,55.529
+2020-10-11 09:40:00,2020-10-11,9,6,Sunday,10,2020,S0208,,,R003,Bathroom,cold water consumption,Washbasin,0.165,23.836
+2020-08-20 22:00:00,2020-08-20,22,3,Thursday,8,2020,S0127,APT_004,CL_D,R034,Living room,cold water consumption,Kitchen tap,0.165,8.882
+2022-05-03 15:20:00,2022-05-03,15,1,Tuesday,5,2022,S0142,,CL_D,R039,Shared bathroom,hot water consumption,Shower,0.163,140.036
+2020-03-30 08:30:00,2020-03-30,8,0,Monday,3,2020,S0059,,CL_B,R020,Shared bathroom,hot water consumption,Shower,0.163,34.196
+2020-04-23 16:00:00,2020-04-23,16,3,Thursday,4,2020,S0106,APT_017,CL_E,R031,Shared space,hot water consumption,Kitchen tap,0.163,41.223
+2022-10-03 23:30:00,2022-10-03,23,0,Monday,10,2022,S0057,APT_012,CL_B,R017,Living room,hot water consumption,Washbasin,0.163,12.59
+2022-10-03 23:30:00,2022-10-03,23,0,Monday,10,2022,S0193,APT_021,CL_G,R042,Living room,hot water consumption,Kitchen tap,0.162,4.376
+2022-10-03 23:30:00,2022-10-03,23,0,Monday,10,2022,S0186,APT_008,CL_G,R043,Living room,cold water consumption,Washbasin,0.158,11.547
+2020-04-20 03:10:00,2020-04-20,3,0,Monday,4,2020,S0109,APT_017,CL_E,R030,Bathroom,cold water consumption,Toilet,0.157,74.057
+2023-01-09 13:30:00,2023-01-09,13,0,Monday,1,2023,S0138,,CL_D,R032,Shared space,hot water consumption,Kitchen tap,0.157,105.565
+2023-01-09 13:30:00,2023-01-09,13,0,Monday,1,2023,S0104,APT_017,CL_E,R030,Bathroom,hot water consumption,Shower,0.157,106.177
+2022-02-23 14:00:00,2022-02-23,14,2,Wednesday,2,2022,S0047,APT_016,CL_B,R019,Living room,cold water consumption,Toilet,0.156,23.195
+2022-02-23 14:00:00,2022-02-23,14,2,Wednesday,2,2022,S0131,APT_004,CL_D,R034,Living room,cold water consumption,Toilet,0.156,54.799
+2020-08-20 22:20:00,2020-08-20,22,3,Thursday,8,2020,S0110,APT_003,CL_C,R028,Bathroom,hot water consumption,Washbasin,0.156,32.154
+2022-02-17 10:10:00,2022-02-17,10,3,Thursday,2,2022,S0137,,CL_D,R039,Shared bathroom,cold water consumption,Washbasin,0.155,7.25
+2020-08-20 22:20:00,2020-08-20,22,3,Thursday,8,2020,S0016,,CL_H,R012,Shared bathroom,hot water consumption,Washbasin,0.155,1.367
+2020-04-23 16:00:00,2020-04-23,16,3,Thursday,4,2020,S0107,APT_017,CL_E,R031,Shared space,cold water consumption,Kitchen tap,0.155,63.442
+2020-04-23 15:50:00,2020-04-23,15,3,Thursday,4,2020,S0037,APT_001,CL_H,R010,Living room,cold water consumption,Toilet,0.154,28.547
+2020-03-30 08:30:00,2020-03-30,8,0,Monday,3,2020,S0107,APT_017,CL_E,R031,Shared space,cold water consumption,Kitchen tap,0.154,62.377
+2023-01-09 13:30:00,2023-01-09,13,0,Monday,1,2023,S0174,,CL_G,R041,Shared space,hot water consumption,Kitchen tap,0.153,119.611
+2022-02-23 14:00:00,2022-02-23,14,2,Wednesday,2,2022,S0101,APT_005,CL_A,R025,Bathroom,cold water consumption,Toilet,0.153,170.024
+2022-10-03 23:40:00,2022-10-03,23,0,Monday,10,2022,S0070,APT_018,CL_B,R015,Living room,cold water consumption,Washbasin,0.153,11.725
+2022-02-23 14:00:00,2022-02-23,14,2,Wednesday,2,2022,S0048,APT_014,CL_B,R018,Living room,cold water consumption,Toilet,0.152,43.493
+2023-01-09 13:30:00,2023-01-09,13,0,Monday,1,2023,S0175,,CL_G,R041,Shared space,cold water consumption,Kitchen tap,0.152,99.617
+2020-08-20 21:50:00,2020-08-20,21,3,Thursday,8,2020,S0214,,,R003,Bathroom,hot water consumption,Washbasin,0.151,2.989
+2020-08-20 22:00:00,2020-08-20,22,3,Thursday,8,2020,S0147,,CL_D,R039,Shared bathroom,cold water consumption,Toilet,0.151,8.468
+2020-04-23 16:00:00,2020-04-23,16,3,Thursday,4,2020,S0179,,CL_G,R048,Shared bathroom,cold water consumption,Shower,0.151,54.519
+2022-02-23 14:00:00,2022-02-23,14,2,Wednesday,2,2022,S0196,APT_011,CL_G,R044,Living room,cold water consumption,Toilet,0.15,30.713
+2020-04-23 16:00:00,2020-04-23,16,3,Thursday,4,2020,S0202,,,R001,Laundry studio,cold water consumption,Washing machine,0.15,51.525
+2020-04-20 03:10:00,2020-04-20,3,0,Monday,4,2020,S0061,,CL_B,R021,Shared bathroom,hot water consumption,Shower,0.15,31.841
+2022-02-23 14:00:00,2022-02-23,14,2,Wednesday,2,2022,S0053,,CL_B,R013,Shared space,hot water consumption,Kitchen tap,0.149,78.695
+2022-10-03 23:30:00,2022-10-03,23,0,Monday,10,2022,S0030,APT_001,CL_H,R010,Living room,cold water consumption,Kitchen tap,0.149,2.076
+2021-04-18 22:40:00,2021-04-18,22,6,Sunday,4,2021,S0061,,CL_B,R021,Shared bathroom,hot water consumption,Shower,0.148,62.226
+2023-01-09 13:30:00,2023-01-09,13,0,Monday,1,2023,S0204,,,R001,Laundry studio,cold water consumption,Washing machine,0.148,70.332
+2020-04-23 16:00:00,2020-04-23,16,3,Thursday,4,2020,S0115,APT_003,CL_C,R029,Shared space,cold water consumption,Kitchen tap,0.147,47.353
+2020-04-23 15:50:00,2020-04-23,15,3,Thursday,4,2020,S0060,,CL_B,R020,Shared bathroom,cold water consumption,Shower,0.146,19.967
+2022-10-03 23:40:00,2022-10-03,23,0,Monday,10,2022,S0192,APT_008,CL_G,R043,Living room,cold water consumption,Kitchen tap,0.146,5.391
+2022-02-17 10:10:00,2022-02-17,10,3,Thursday,2,2022,S0090,APT_006,CL_I,R026,Bathroom,hot water consumption,Washbasin,0.146,3.886
+2021-02-11 23:00:00,2021-02-11,23,3,Thursday,2,2021,S0061,,CL_B,R021,Shared bathroom,hot water consumption,Shower,0.146,52.341
+2022-10-03 23:30:00,2022-10-03,23,0,Monday,10,2022,S0016,,CL_H,R012,Shared bathroom,hot water consumption,Washbasin,0.146,2.242
+2022-12-09 09:50:00,2022-12-09,9,4,Friday,12,2022,S0142,,CL_D,R039,Shared bathroom,hot water consumption,Shower,0.146,169.411
+2020-03-30 08:30:00,2020-03-30,8,0,Monday,3,2020,S0115,APT_003,CL_C,R029,Shared space,cold water consumption,Kitchen tap,0.145,45.797
+2020-05-26 23:20:00,2020-05-26,23,1,Tuesday,5,2020,S0180,,CL_G,R049,Shared bathroom,hot water consumption,Shower,0.145,91.793
+2022-05-22 18:50:00,2022-05-22,18,6,Sunday,5,2022,S0142,,CL_D,R039,Shared bathroom,hot water consumption,Shower,0.144,144.441
+2023-01-09 13:30:00,2023-01-09,13,0,Monday,1,2023,S0086,APT_002,CL_F,R022,Bathroom,cold water consumption,Toilet,0.144,122.944
+2021-02-13 00:50:00,2021-02-13,0,5,Saturday,2,2021,S0061,,CL_B,R021,Shared bathroom,hot water consumption,Shower,0.143,52.596
+2020-04-23 15:50:00,2020-04-23,15,3,Thursday,4,2020,S0022,,CL_H,R005,Shared space,cold water consumption,Kitchen tap,0.143,29.34
+2022-10-03 23:40:00,2022-10-03,23,0,Monday,10,2022,S0150,APT_028,CL_D,R038,Living room,cold water consumption,Kitchen tap,0.141,5.904
+2020-04-23 15:50:00,2020-04-23,15,3,Thursday,4,2020,S0096,APT_005,CL_A,R025,Bathroom,hot water consumption,Shower,0.141,38.563
+2022-02-23 14:00:00,2022-02-23,14,2,Wednesday,2,2022,S0166,APT_020,CL_G,R046,Living room,cold water consumption,Toilet,0.14,53.916
+2021-03-24 05:50:00,2021-03-24,5,2,Wednesday,3,2021,S0101,APT_005,CL_A,R025,Bathroom,cold water consumption,Toilet,0.14,162.766
+2022-02-23 14:00:00,2022-02-23,14,2,Wednesday,2,2022,S0071,APT_018,CL_B,R015,Living room,hot water consumption,Kitchen tap,0.14,16.819
+2022-10-03 23:40:00,2022-10-03,23,0,Monday,10,2022,S0028,,CL_H,R012,Shared bathroom,cold water consumption,Toilet,0.14,17.61
+2022-06-07 08:10:00,2022-06-07,8,1,Tuesday,6,2022,S0106,APT_017,CL_E,R031,Shared space,hot water consumption,Kitchen tap,0.139,105.677
+2022-02-23 14:00:00,2022-02-23,14,2,Wednesday,2,2022,S0015,APT_009,CL_H,R008,Living room,cold water consumption,Kitchen tap,0.139,42.942
+2022-02-23 14:00:00,2022-02-23,14,2,Wednesday,2,2022,S0072,APT_018,CL_B,R015,Living room,cold water consumption,Kitchen tap,0.139,14.609
+2021-03-24 01:30:00,2021-03-24,1,2,Wednesday,3,2021,S0101,APT_005,CL_A,R025,Bathroom,cold water consumption,Toilet,0.139,160.946
+2020-03-30 08:30:00,2020-03-30,8,0,Monday,3,2020,S0055,APT_012,CL_B,R017,Living room,hot water consumption,Kitchen tap,0.138,10.943
+2022-02-23 14:00:00,2022-02-23,14,2,Wednesday,2,2022,S0082,APT_002,CL_F,R022,Bathroom,hot water consumption,Shower,0.138,84.224
+2022-03-12 17:50:00,2022-03-12,17,5,Saturday,3,2022,S0142,,CL_D,R039,Shared bathroom,hot water consumption,Shower,0.138,131.027
+2020-04-23 16:00:00,2020-04-23,16,3,Thursday,4,2020,S0104,APT_017,CL_E,R030,Bathroom,hot water consumption,Shower,0.137,66.147
+2020-08-20 22:00:00,2020-08-20,22,3,Thursday,8,2020,S0126,APT_004,CL_D,R034,Living room,hot water consumption,Kitchen tap,0.137,5.304
+2022-10-03 23:30:00,2022-10-03,23,0,Monday,10,2022,S0046,APT_016,CL_B,R019,Living room,cold water consumption,Washbasin,0.137,9.116
+2023-01-09 13:20:00,2023-01-09,13,0,Monday,1,2023,S0207,,,R001,Laundry studio,cold water consumption,Washing machine,0.137,130.198
+2022-02-17 10:10:00,2022-02-17,10,3,Thursday,2,2022,S0141,APT_025,CL_D,R036,Living room,cold water consumption,Washbasin,0.136,15.688
+2020-04-23 16:00:00,2020-04-23,16,3,Thursday,4,2020,S0015,APT_009,CL_H,R008,Living room,cold water consumption,Kitchen tap,0.136,28.266
+2022-05-29 18:30:00,2022-05-29,18,6,Sunday,5,2022,S0142,,CL_D,R039,Shared bathroom,hot water consumption,Shower,0.136,146.02
+2020-04-23 16:00:00,2020-04-23,16,3,Thursday,4,2020,S0174,,CL_G,R041,Shared space,hot water consumption,Kitchen tap,0.136,76.409
+2021-03-24 00:40:00,2021-03-24,0,2,Wednesday,3,2021,S0101,APT_005,CL_A,R025,Bathroom,cold water consumption,Toilet,0.136,160.598
+2023-01-09 13:20:00,2023-01-09,13,0,Monday,1,2023,S0197,APT_021,CL_G,R042,Living room,cold water consumption,Toilet,0.136,44.724
+2021-03-22 07:00:00,2021-03-22,7,0,Monday,3,2021,S0101,APT_005,CL_A,R025,Bathroom,cold water consumption,Toilet,0.135,143.953
+2021-03-23 07:00:00,2021-03-23,7,1,Tuesday,3,2021,S0101,APT_005,CL_A,R025,Bathroom,cold water consumption,Toilet,0.135,153.608
+2022-02-17 10:10:00,2022-02-17,10,3,Thursday,2,2022,S0177,APT_015,CL_G,R045,Living room,cold water consumption,Washbasin,0.135,5.811
+2020-03-30 08:30:00,2020-03-30,8,0,Monday,3,2020,S0085,APT_002,CL_F,R023,Shared space,cold water consumption,Kitchen tap,0.135,37.943
+2021-11-13 17:30:00,2021-11-13,17,5,Saturday,11,2021,S0142,,CL_D,R039,Shared bathroom,hot water consumption,Shower,0.134,114.699
+2021-03-24 07:50:00,2021-03-24,7,2,Wednesday,3,2021,S0101,APT_005,CL_A,R025,Bathroom,cold water consumption,Toilet,0.134,163.578
+2022-10-03 23:30:00,2022-10-03,23,0,Monday,10,2022,S0190,APT_011,CL_G,R044,Living room,cold water consumption,Kitchen tap,0.134,4.492
+2021-03-22 13:50:00,2021-03-22,13,0,Monday,3,2021,S0101,APT_005,CL_A,R025,Bathroom,cold water consumption,Toilet,0.134,146.659
+2021-03-21 20:10:00,2021-03-21,20,6,Sunday,3,2021,S0101,APT_005,CL_A,R025,Bathroom,cold water consumption,Toilet,0.133,139.497
+2021-03-20 16:50:00,2021-03-20,16,5,Saturday,3,2021,S0101,APT_005,CL_A,R025,Bathroom,cold water consumption,Toilet,0.133,128.541
+2020-04-23 16:00:00,2020-04-23,16,3,Thursday,4,2020,S0077,APT_018,CL_B,R015,Living room,cold water consumption,Toilet,0.132,24.114
+2022-10-06 10:10:00,2022-10-06,10,3,Thursday,10,2022,S0112,APT_003,CL_C,R028,Bathroom,hot water consumption,Shower,0.132,150.183
+2020-04-23 15:50:00,2020-04-23,15,3,Thursday,4,2020,S0041,APT_014,CL_B,R018,Living room,hot water consumption,Kitchen tap,0.132,4.582
+2021-03-23 18:20:00,2021-03-23,18,1,Tuesday,3,2021,S0101,APT_005,CL_A,R025,Bathroom,cold water consumption,Toilet,0.132,158.084
+2021-03-21 11:50:00,2021-03-21,11,6,Sunday,3,2021,S0101,APT_005,CL_A,R025,Bathroom,cold water consumption,Toilet,0.132,136.199
+2022-02-17 10:10:00,2022-02-17,10,3,Thursday,2,2022,S0031,APT_022,CL_H,R009,Living room,hot water consumption,Kitchen tap,0.132,1.697
+2023-01-09 13:30:00,2023-01-09,13,0,Monday,1,2023,S0181,,CL_G,R049,Shared bathroom,cold water consumption,Shower,0.132,86.827
+2020-03-30 08:30:00,2020-03-30,8,0,Monday,3,2020,S0104,APT_017,CL_E,R030,Bathroom,hot water consumption,Shower,0.132,65.117
+2020-11-29 18:10:00,2020-11-29,18,6,Sunday,11,2020,S0144,,CL_D,R040,Shared bathroom,hot water consumption,Shower,0.131,88.524
+2021-01-05 09:30:00,2021-01-05,9,1,Tuesday,1,2021,S0180,,CL_G,R049,Shared bathroom,hot water consumption,Shower,0.131,121.784
+2022-10-06 10:10:00,2022-10-06,10,3,Thursday,10,2022,S0062,,CL_B,R021,Shared bathroom,cold water consumption,Shower,0.131,66.105
+2022-02-23 14:00:00,2022-02-23,14,2,Wednesday,2,2022,S0163,APT_020,CL_G,R046,Living room,hot water consumption,Washbasin,0.131,25.449
+2021-03-20 18:00:00,2021-03-20,18,5,Saturday,3,2021,S0101,APT_005,CL_A,R025,Bathroom,cold water consumption,Toilet,0.13,128.999
+2022-10-03 23:30:00,2022-10-03,23,0,Monday,10,2022,S0042,APT_014,CL_B,R018,Living room,cold water consumption,Kitchen tap,0.13,12.657
+2022-07-29 20:30:00,2022-07-29,20,4,Friday,7,2022,S0196,APT_011,CL_G,R044,Living room,cold water consumption,Toilet,0.13,32.679
+2022-02-17 10:10:00,2022-02-17,10,3,Thursday,2,2022,S0172,APT_015,CL_G,R045,Living room,hot water consumption,Kitchen tap,0.129,13.196
+2022-08-01 15:50:00,2022-08-01,15,0,Monday,8,2022,S0142,,CL_D,R039,Shared bathroom,hot water consumption,Shower,0.129,148.952
+2020-03-30 08:30:00,2020-03-30,8,0,Monday,3,2020,S0202,,,R001,Laundry studio,cold water consumption,Washing machine,0.129,50.364
+2020-04-19 06:50:00,2020-04-19,6,6,Sunday,4,2020,S0109,APT_017,CL_E,R030,Bathroom,cold water consumption,Toilet,0.129,73.891
+2022-02-23 14:00:00,2022-02-23,14,2,Wednesday,2,2022,S0041,APT_014,CL_B,R018,Living room,hot water consumption,Kitchen tap,0.128,23.35
+2022-10-03 23:30:00,2022-10-03,23,0,Monday,10,2022,S0010,APT_026,CL_H,R007,Living room,hot water consumption,Washbasin,0.128,22.26
+2020-08-20 21:50:00,2020-08-20,21,3,Thursday,8,2020,S0036,APT_001,CL_H,R010,Living room,cold water consumption,Washbasin,0.128,4.724
+2022-10-06 10:10:00,2022-10-06,10,3,Thursday,10,2022,S0158,APT_028,CL_D,R038,Living room,cold water consumption,Toilet,0.127,32.942
+2020-03-31 20:20:00,2020-03-31,20,1,Tuesday,3,2020,S0180,,CL_G,R049,Shared bathroom,hot water consumption,Shower,0.127,83.227
+2023-01-21 21:00:00,2023-01-21,21,5,Saturday,1,2023,S0142,,CL_D,R039,Shared bathroom,hot water consumption,Shower,0.127,176.645
+2022-10-06 10:00:00,2022-10-06,10,3,Thursday,10,2022,S0081,APT_002,CL_F,R022,Bathroom,cold water consumption,Washbasin,0.127,37.476
+2022-10-03 23:30:00,2022-10-03,23,0,Monday,10,2022,S0200,,,R002,Bathroom,cold water consumption,Washbasin,0.126,10.223
+2022-12-08 13:30:00,2022-12-08,13,3,Thursday,12,2022,S0178,,CL_G,R048,Shared bathroom,hot water consumption,Shower,0.126,126.271
+2020-01-21 23:50:00,2020-01-21,23,1,Tuesday,1,2020,S0059,,CL_B,R020,Shared bathroom,hot water consumption,Shower,0.126,29.126
+2020-04-20 03:10:00,2020-04-20,3,0,Monday,4,2020,S0055,APT_012,CL_B,R017,Living room,hot water consumption,Kitchen tap,0.126,12.323
+2022-06-04 15:00:00,2022-06-04,15,5,Saturday,6,2022,S0144,,CL_D,R040,Shared bathroom,hot water consumption,Shower,0.126,129.9
+2020-04-23 15:50:00,2020-04-23,15,3,Thursday,4,2020,S0181,,CL_G,R049,Shared bathroom,cold water consumption,Shower,0.125,40.944
+2021-03-20 08:20:00,2021-03-20,8,5,Saturday,3,2021,S0101,APT_005,CL_A,R025,Bathroom,cold water consumption,Toilet,0.125,125.175
+2020-01-30 12:10:00,2020-01-30,12,3,Thursday,1,2020,S0144,,CL_D,R040,Shared bathroom,hot water consumption,Shower,0.124,66.753
+2022-02-17 10:10:00,2022-02-17,10,3,Thursday,2,2022,S0140,APT_025,CL_D,R036,Living room,cold water consumption,Washbasin,0.124,14.417
+2020-12-09 15:40:00,2020-12-09,15,2,Wednesday,12,2020,S0144,,CL_D,R040,Shared bathroom,hot water consumption,Shower,0.124,89.83
+2022-10-06 10:10:00,2022-10-06,10,3,Thursday,10,2022,S0174,,CL_G,R041,Shared space,hot water consumption,Kitchen tap,0.124,115.954
+2022-02-17 10:10:00,2022-02-17,10,3,Thursday,2,2022,S0033,APT_022,CL_H,R009,Living room,hot water consumption,Washbasin,0.123,5.382
+2022-12-12 20:00:00,2022-12-12,20,0,Monday,12,2022,S0146,,CL_D,R039,Shared bathroom,cold water consumption,Toilet,0.123,31.235
+2022-08-12 11:10:00,2022-08-12,11,4,Friday,8,2022,S0142,,CL_D,R039,Shared bathroom,hot water consumption,Shower,0.123,150.399
+2020-08-20 21:50:00,2020-08-20,21,3,Thursday,8,2020,S0046,APT_016,CL_B,R019,Living room,cold water consumption,Washbasin,0.123,6.426
+2022-02-17 10:10:00,2022-02-17,10,3,Thursday,2,2022,S0005,APT_010,CL_H,R006,Living room,cold water consumption,Toilet,0.123,11.4
+2022-02-23 14:00:00,2022-02-23,14,2,Wednesday,2,2022,S0056,APT_012,CL_B,R017,Living room,cold water consumption,Kitchen tap,0.122,14.499
+2021-10-14 20:30:00,2021-10-14,20,3,Thursday,10,2021,S0144,,CL_D,R040,Shared bathroom,hot water consumption,Shower,0.121,108.849
+2022-10-06 10:10:00,2022-10-06,10,3,Thursday,10,2022,S0082,APT_002,CL_F,R022,Bathroom,hot water consumption,Shower,0.121,92.83
+2022-06-07 08:00:00,2022-06-07,8,1,Tuesday,6,2022,S0207,,,R001,Laundry studio,cold water consumption,Washing machine,0.121,112.61
+2020-03-30 08:30:00,2020-03-30,8,0,Monday,3,2020,S0007,APT_010,CL_H,R006,Living room,cold water consumption,Toilet,0.12,19.733
+2020-04-23 15:50:00,2020-04-23,15,3,Thursday,4,2020,S0038,APT_022,CL_H,R009,Living room,cold water consumption,Toilet,0.12,29.983
+2023-01-09 13:30:00,2023-01-09,13,0,Monday,1,2023,S0041,APT_014,CL_B,R018,Living room,hot water consumption,Kitchen tap,0.119,30.132
+2022-10-06 10:00:00,2022-10-06,10,3,Thursday,10,2022,S0138,,CL_D,R032,Shared space,hot water consumption,Kitchen tap,0.119,99.665
+2022-08-12 11:10:00,2022-08-12,11,4,Friday,8,2022,S0109,APT_017,CL_E,R030,Bathroom,cold water consumption,Toilet,0.119,203.206
+2020-02-08 13:00:00,2020-02-08,13,5,Saturday,2,2020,S0180,,CL_G,R049,Shared bathroom,hot water consumption,Shower,0.118,75.268
+2020-04-19 06:50:00,2020-04-19,6,6,Sunday,4,2020,S0106,APT_017,CL_E,R031,Shared space,hot water consumption,Kitchen tap,0.118,40.954
+2021-11-21 16:30:00,2021-11-21,16,6,Sunday,11,2021,S0142,,CL_D,R039,Shared bathroom,hot water consumption,Shower,0.118,116.203
+2021-03-14 08:30:00,2021-03-14,8,6,Sunday,3,2021,S0112,APT_003,CL_C,R028,Bathroom,hot water consumption,Shower,0.118,113.558
+2022-10-03 23:30:00,2022-10-03,23,0,Monday,10,2022,S0182,,CL_G,R048,Shared bathroom,cold water consumption,Toilet,0.118,17.493
+2020-02-11 12:30:00,2020-02-11,12,1,Tuesday,2,2020,S0144,,CL_D,R040,Shared bathroom,hot water consumption,Shower,0.118,68.265
+2022-10-06 10:00:00,2022-10-06,10,3,Thursday,10,2022,S0139,,CL_D,R032,Shared space,cold water consumption,Kitchen tap,0.117,70.542
+2020-10-19 10:30:00,2020-10-19,10,0,Monday,10,2020,S0144,,CL_D,R040,Shared bathroom,hot water consumption,Shower,0.117,83.645
+2022-02-17 10:10:00,2022-02-17,10,3,Thursday,2,2022,S0035,APT_001,CL_H,R010,Living room,hot water consumption,Washbasin,0.117,0.61
+2022-02-17 10:10:00,2022-02-17,10,3,Thursday,2,2022,S0136,,CL_D,R039,Shared bathroom,hot water consumption,Washbasin,0.117,5.625
+2020-06-15 18:30:00,2020-06-15,18,0,Monday,6,2020,S0211,,,R004,Cleaning,cold water consumption,Washbasin,0.117,11.428
+2020-04-23 15:50:00,2020-04-23,15,3,Thursday,4,2020,S0117,APT_003,CL_C,R028,Bathroom,cold water consumption,Washing machine,0.117,60.98
+2022-02-17 10:10:00,2022-02-17,10,3,Thursday,2,2022,S0167,APT_007,CL_G,R047,Living room,cold water consumption,Washbasin,0.117,7.908
+2020-04-23 16:00:00,2020-04-23,16,3,Thursday,4,2020,S0114,APT_003,CL_C,R029,Shared space,hot water consumption,Kitchen tap,0.117,37.931
+2020-11-30 16:10:00,2020-11-30,16,0,Monday,11,2020,S0178,,CL_G,R048,Shared bathroom,hot water consumption,Shower,0.117,88.776
+2022-06-07 08:10:00,2022-06-07,8,1,Tuesday,6,2022,S0107,APT_017,CL_E,R031,Shared space,cold water consumption,Kitchen tap,0.116,114.975
+2022-10-03 23:40:00,2022-10-03,23,0,Monday,10,2022,S0203,,,R001,Laundry studio,hot water consumption,Washing machine,0.115,9.375
+2022-10-03 23:30:00,2022-10-03,23,0,Monday,10,2022,S0134,APT_025,CL_D,R036,Living room,cold water consumption,Kitchen tap,0.115,6.377
+2021-05-07 23:50:00,2021-05-07,23,4,Friday,5,2021,S0061,,CL_B,R021,Shared bathroom,hot water consumption,Shower,0.115,65.06
+2021-02-12 08:40:00,2021-02-12,8,4,Friday,2,2021,S0142,,CL_D,R039,Shared bathroom,hot water consumption,Shower,0.115,100.373
+2022-10-03 23:30:00,2022-10-03,23,0,Monday,10,2022,S0164,APT_020,CL_G,R046,Living room,cold water consumption,Washbasin,0.114,14.214
+2020-04-23 15:50:00,2020-04-23,15,3,Thursday,4,2020,S0002,APT_010,CL_H,R006,Living room,cold water consumption,Washbasin,0.114,6.65
+2020-03-30 08:30:00,2020-03-30,8,0,Monday,3,2020,S0102,APT_017,CL_E,R030,Bathroom,hot water consumption,Washbasin,0.113,22.016
+2020-04-19 06:40:00,2020-04-19,6,6,Sunday,4,2020,S0117,APT_003,CL_C,R028,Bathroom,cold water consumption,Washing machine,0.113,60.696
+2022-10-25 21:50:00,2022-10-25,21,1,Tuesday,10,2022,S0142,,CL_D,R039,Shared bathroom,hot water consumption,Shower,0.113,160.863
+2020-11-15 15:30:00,2020-11-15,15,6,Sunday,11,2020,S0061,,CL_B,R021,Shared bathroom,hot water consumption,Shower,0.113,43.727
+2022-02-23 14:00:00,2022-02-23,14,2,Wednesday,2,2022,S0130,APT_027,CL_D,R035,Living room,cold water consumption,Toilet,0.112,19.521
+2020-03-30 08:30:00,2020-03-30,8,0,Monday,3,2020,S0054,,CL_B,R013,Shared space,cold water consumption,Kitchen tap,0.112,50.688
+2022-06-07 08:00:00,2022-06-07,8,1,Tuesday,6,2022,S0081,APT_002,CL_F,R022,Bathroom,cold water consumption,Washbasin,0.111,32.549
+2020-04-23 15:50:00,2020-04-23,15,3,Thursday,4,2020,S0143,,CL_D,R040,Shared bathroom,cold water consumption,Shower,0.11,46.248
+2022-10-06 10:00:00,2022-10-06,10,3,Thursday,10,2022,S0106,APT_017,CL_E,R031,Shared space,hot water consumption,Kitchen tap,0.11,114.152
+2020-04-23 16:00:00,2020-04-23,16,3,Thursday,4,2020,S0048,APT_014,CL_B,R018,Living room,cold water consumption,Toilet,0.11,29.174
+2022-12-01 11:50:00,2022-12-01,11,3,Thursday,12,2022,S0210,,,R001,Laundry studio,cold water consumption,Washbasin,0.11,28.354
+2021-11-05 13:50:00,2021-11-05,13,4,Friday,11,2021,S0178,,CL_G,R048,Shared bathroom,hot water consumption,Shower,0.109,99.453
+2022-07-06 05:40:00,2022-07-06,5,2,Wednesday,7,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.109,119.202
+2022-07-06 03:30:00,2022-07-06,3,2,Wednesday,7,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.109,117.805
+2021-05-12 17:30:00,2021-05-12,17,2,Wednesday,5,2021,S0209,,,R001,Laundry studio,hot water consumption,Washbasin,0.109,9.108
+2020-03-30 08:30:00,2020-03-30,8,0,Monday,3,2020,S0025,,CL_H,R011,Shared bathroom,cold water consumption,Shower,0.109,26.23
+2022-07-06 02:30:00,2022-07-06,2,2,Wednesday,7,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.109,117.161
+2020-04-19 06:50:00,2020-04-19,6,6,Sunday,4,2020,S0086,APT_002,CL_F,R022,Bathroom,cold water consumption,Toilet,0.109,57.527
+2020-04-19 06:50:00,2020-04-19,6,6,Sunday,4,2020,S0113,APT_003,CL_C,R028,Bathroom,cold water consumption,Shower,0.109,39.906
+2020-11-05 17:20:00,2020-11-05,17,3,Thursday,11,2020,S0082,APT_002,CL_F,R022,Bathroom,hot water consumption,Shower,0.109,60.683
+2022-07-06 04:00:00,2022-07-06,4,2,Wednesday,7,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.108,118.126
+2022-07-06 04:30:00,2022-07-06,4,2,Wednesday,7,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.108,118.45
+2022-07-06 04:10:00,2022-07-06,4,2,Wednesday,7,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.108,118.234
+2022-07-06 04:40:00,2022-07-06,4,2,Wednesday,7,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.108,118.558
+2022-07-06 05:10:00,2022-07-06,5,2,Wednesday,7,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.108,118.88
+2021-11-12 03:40:00,2021-11-12,3,4,Friday,11,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.108,56.269
+2021-11-12 05:30:00,2021-11-12,5,4,Friday,11,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.108,57.44
+2022-04-18 04:10:00,2022-04-18,4,0,Monday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.108,105.719
+2022-04-18 04:50:00,2022-04-18,4,0,Monday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.108,106.145
+2022-07-06 04:20:00,2022-07-06,4,2,Wednesday,7,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.108,118.342
+2022-08-12 11:10:00,2022-08-12,11,4,Friday,8,2022,S0116,APT_003,CL_C,R028,Bathroom,cold water consumption,Toilet,0.108,147.651
+2021-01-12 03:30:00,2021-01-12,3,1,Tuesday,1,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.108,33.405
+2022-07-06 03:00:00,2022-07-06,3,2,Wednesday,7,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.108,117.483
+2022-07-06 02:20:00,2022-07-06,2,2,Wednesday,7,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.108,117.052
+2022-07-06 02:40:00,2022-07-06,2,2,Wednesday,7,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.108,117.269
+2022-07-06 00:50:00,2022-07-06,0,2,Wednesday,7,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.108,116.092
+2020-04-02 18:30:00,2020-04-02,18,3,Thursday,4,2020,S0178,,CL_G,R048,Shared bathroom,hot water consumption,Shower,0.108,80.481
+2022-04-17 02:00:00,2022-04-17,2,6,Sunday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.108,89.435
+2022-04-18 05:20:00,2022-04-18,5,0,Monday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.107,106.464
+2022-04-18 02:40:00,2022-04-18,2,0,Monday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.107,104.765
+2022-04-17 02:20:00,2022-04-17,2,6,Sunday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.107,89.648
+2022-04-17 02:50:00,2022-04-17,2,6,Sunday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.107,89.966
+2022-04-17 03:40:00,2022-04-17,3,6,Sunday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.107,90.498
+2022-07-06 03:20:00,2022-07-06,3,2,Wednesday,7,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.107,117.696
+2022-04-18 04:30:00,2022-04-18,4,0,Monday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.107,105.932
+2022-04-18 05:50:00,2022-04-18,5,0,Monday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.107,106.783
+2022-04-18 03:30:00,2022-04-18,3,0,Monday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.107,105.294
+2022-04-18 01:10:00,2022-04-18,1,0,Monday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.107,103.811
+2022-07-06 05:30:00,2022-07-06,5,2,Wednesday,7,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.107,119.093
+2022-07-06 04:50:00,2022-07-06,4,2,Wednesday,7,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.107,118.665
+2022-07-06 05:00:00,2022-07-06,5,2,Wednesday,7,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.107,118.772
+2021-11-12 02:20:00,2021-11-12,2,4,Friday,11,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.107,55.42
+2022-04-18 06:10:00,2022-04-18,6,0,Monday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.107,106.996
+2021-11-12 04:20:00,2021-11-12,4,4,Friday,11,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.107,56.695
+2021-11-12 04:00:00,2021-11-12,4,4,Friday,11,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.107,56.482
+2021-11-12 02:50:00,2021-11-12,2,4,Friday,11,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.107,55.739
+2021-11-12 04:30:00,2021-11-12,4,4,Friday,11,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.107,56.802
+2022-11-14 14:00:00,2022-11-14,14,0,Monday,11,2022,S0142,,CL_D,R039,Shared bathroom,hot water consumption,Shower,0.107,164.236
+2020-03-30 08:30:00,2020-03-30,8,0,Monday,3,2020,S0175,,CL_G,R041,Shared space,cold water consumption,Kitchen tap,0.107,56.322
+2021-11-12 05:00:00,2021-11-12,5,4,Friday,11,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.107,57.121
+2021-11-12 02:30:00,2021-11-12,2,4,Friday,11,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.107,55.527
+2021-11-12 00:30:00,2021-11-12,0,4,Friday,11,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.107,54.254
+2021-11-12 00:50:00,2021-11-12,0,4,Friday,11,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.107,54.466
+2022-07-06 03:50:00,2022-07-06,3,2,Wednesday,7,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.107,118.018
+2022-07-06 06:10:00,2022-07-06,6,2,Wednesday,7,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.107,119.52
+2022-04-18 02:30:00,2022-04-18,2,0,Monday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.107,104.658
+2021-01-12 02:00:00,2021-01-12,2,1,Tuesday,1,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.107,32.443
+2022-07-06 02:00:00,2022-07-06,2,2,Wednesday,7,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.107,116.837
+2022-07-06 02:10:00,2022-07-06,2,2,Wednesday,7,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.107,116.944
+2021-01-12 02:40:00,2021-01-12,2,1,Tuesday,1,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.107,32.869
+2022-07-06 01:50:00,2022-07-06,1,2,Wednesday,7,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.107,116.73
+2022-04-17 04:10:00,2022-04-17,4,6,Sunday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.107,90.819
+2022-04-17 06:20:00,2022-04-17,6,6,Sunday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.107,92.198
+2022-04-17 06:40:00,2022-04-17,6,6,Sunday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.107,92.411
+2022-07-06 00:10:00,2022-07-06,0,2,Wednesday,7,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.107,115.667
+2022-04-17 07:10:00,2022-04-17,7,6,Sunday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.107,92.731
+2022-04-17 04:30:00,2022-04-17,4,6,Sunday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.107,91.032
+2022-04-17 04:00:00,2022-04-17,4,6,Sunday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.107,90.712
+2022-04-17 03:50:00,2022-04-17,3,6,Sunday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.107,90.605
+2020-12-17 08:10:00,2020-12-17,8,3,Thursday,12,2020,S0142,,CL_D,R039,Shared bathroom,hot water consumption,Shower,0.107,95.422
+2022-04-17 03:10:00,2022-04-17,3,6,Sunday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.107,90.179
+2022-04-17 03:20:00,2022-04-17,3,6,Sunday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.107,90.286
+2022-04-17 05:40:00,2022-04-17,5,6,Sunday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.107,91.774
+2021-01-12 03:20:00,2021-01-12,3,1,Tuesday,1,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.107,33.297
+2020-06-10 19:40:00,2020-06-10,19,2,Wednesday,6,2020,S0211,,,R004,Cleaning,cold water consumption,Washbasin,0.107,10.94
+2022-04-17 07:00:00,2022-04-17,7,6,Sunday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.107,92.624
+2022-04-18 03:10:00,2022-04-18,3,0,Monday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.106,105.081
+2021-11-12 00:10:00,2021-11-12,0,4,Friday,11,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.106,54.042
+2022-04-18 05:10:00,2022-04-18,5,0,Monday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.106,106.357
+2022-04-18 05:00:00,2022-04-18,5,0,Monday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.106,106.251
+2022-08-11 07:50:00,2022-08-11,7,3,Thursday,8,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.106,126.724
+2022-04-18 04:20:00,2022-04-18,4,0,Monday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.106,105.825
+2022-04-18 01:20:00,2022-04-18,1,0,Monday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.106,103.917
+2022-04-18 00:20:00,2022-04-18,0,0,Monday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.106,103.284
+2022-07-06 05:20:00,2022-07-06,5,2,Wednesday,7,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.106,118.986
+2022-04-18 01:40:00,2022-04-18,1,0,Monday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.106,104.128
+2022-07-06 06:30:00,2022-07-06,6,2,Wednesday,7,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.106,119.732
+2022-04-18 03:40:00,2022-04-18,3,0,Monday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.106,105.4
+2022-04-18 00:40:00,2022-04-18,0,0,Monday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.106,103.495
+2022-04-18 03:20:00,2022-04-18,3,0,Monday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.106,105.187
+2022-04-18 07:20:00,2022-04-18,7,0,Monday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.106,107.737
+2022-04-18 03:50:00,2022-04-18,3,0,Monday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.106,105.506
+2022-04-18 06:50:00,2022-04-18,6,0,Monday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.106,107.421
+2022-07-06 08:50:00,2022-07-06,8,2,Wednesday,7,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.106,121.201
+2022-07-06 07:10:00,2022-07-06,7,2,Wednesday,7,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.106,120.152
+2022-07-06 08:10:00,2022-07-06,8,2,Wednesday,7,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.106,120.781
+2021-11-12 03:00:00,2021-11-12,3,4,Friday,11,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.106,55.845
+2021-11-12 02:00:00,2021-11-12,2,4,Friday,11,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.106,55.208
+2022-04-18 03:00:00,2022-04-18,3,0,Monday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.106,104.975
+2021-11-12 03:10:00,2021-11-12,3,4,Friday,11,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.106,55.951
+2021-11-12 03:50:00,2021-11-12,3,4,Friday,11,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.106,56.375
+2022-04-18 05:40:00,2022-04-18,5,0,Monday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.106,106.676
+2021-11-12 04:10:00,2021-11-12,4,4,Friday,11,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.106,56.588
+2021-11-12 04:40:00,2021-11-12,4,4,Friday,11,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.106,56.908
+2021-11-12 04:50:00,2021-11-12,4,4,Friday,11,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.106,57.014
+2022-04-18 06:00:00,2022-04-18,6,0,Monday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.106,106.889
+2022-04-18 05:30:00,2022-04-18,5,0,Monday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.106,106.57
+2022-04-18 06:40:00,2022-04-18,6,0,Monday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.106,107.315
+2021-11-12 01:30:00,2021-11-12,1,4,Friday,11,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.106,54.89
+2021-11-12 01:40:00,2021-11-12,1,4,Friday,11,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.106,54.996
+2021-11-12 01:50:00,2021-11-12,1,4,Friday,11,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.106,55.102
+2021-11-12 06:00:00,2021-11-12,6,4,Friday,11,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.106,57.757
+2021-11-12 05:40:00,2021-11-12,5,4,Friday,11,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.106,57.546
+2021-11-12 01:20:00,2021-11-12,1,4,Friday,11,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.106,54.784
+2021-11-11 23:20:00,2021-11-11,23,3,Thursday,11,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.106,53.516
+2021-11-12 05:10:00,2021-11-12,5,4,Friday,11,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.106,57.227
+2022-12-10 18:00:00,2022-12-10,18,5,Saturday,12,2022,S0145,,CL_D,R039,Shared bathroom,cold water consumption,Shower,0.106,90.206
+2020-01-16 16:50:00,2020-01-16,16,3,Thursday,1,2020,S0112,APT_003,CL_C,R028,Bathroom,hot water consumption,Shower,0.106,70.367
+2020-03-30 08:20:00,2020-03-30,8,0,Monday,3,2020,S0096,APT_005,CL_A,R025,Bathroom,hot water consumption,Shower,0.106,37.864
+2020-04-23 15:50:00,2020-04-23,15,3,Thursday,4,2020,S0158,APT_028,CL_D,R038,Living room,cold water consumption,Toilet,0.106,17.683
+2020-04-20 03:00:00,2020-04-20,3,0,Monday,4,2020,S0106,APT_017,CL_E,R031,Shared space,hot water consumption,Kitchen tap,0.106,41.06
+2021-01-12 01:20:00,2021-01-12,1,1,Tuesday,1,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.106,32.018
+2021-01-12 00:50:00,2021-01-12,0,1,Tuesday,1,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.106,31.7
+2022-04-17 06:00:00,2022-04-17,6,6,Sunday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.106,91.985
+2022-04-17 06:30:00,2022-04-17,6,6,Sunday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.106,92.304
+2021-01-12 01:30:00,2021-01-12,1,1,Tuesday,1,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.106,32.124
+2022-04-17 04:40:00,2022-04-17,4,6,Sunday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.106,91.138
+2022-04-17 04:50:00,2022-04-17,4,6,Sunday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.106,91.244
+2022-04-17 05:00:00,2022-04-17,5,6,Sunday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.106,91.35
+2021-01-12 01:00:00,2021-01-12,1,1,Tuesday,1,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.106,31.806
+2022-04-17 05:20:00,2022-04-17,5,6,Sunday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.106,91.562
+2022-04-17 07:20:00,2022-04-17,7,6,Sunday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.106,92.837
+2022-04-17 06:50:00,2022-04-17,6,6,Sunday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.106,92.517
+2022-07-05 23:50:00,2022-07-05,23,1,Tuesday,7,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.106,115.454
+2022-07-06 00:00:00,2022-07-06,0,2,Wednesday,7,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.106,115.56
+2022-07-06 00:30:00,2022-07-06,0,2,Wednesday,7,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.106,115.878
+2021-01-12 01:40:00,2021-01-12,1,1,Tuesday,1,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.106,32.23
+2021-01-12 00:10:00,2021-01-12,0,1,Tuesday,1,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.106,31.278
+2022-07-06 02:50:00,2022-07-06,2,2,Wednesday,7,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.106,117.375
+2021-01-12 03:10:00,2021-01-12,3,1,Tuesday,1,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.106,33.19
+2021-01-12 02:10:00,2021-01-12,2,1,Tuesday,1,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.106,32.549
+2022-07-06 01:30:00,2022-07-06,1,2,Wednesday,7,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.106,116.517
+2022-07-06 01:40:00,2022-07-06,1,2,Wednesday,7,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.106,116.623
+2021-01-12 00:40:00,2021-01-12,0,1,Tuesday,1,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.106,31.594
+2021-01-12 01:10:00,2021-01-12,1,1,Tuesday,1,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.106,31.912
+2022-04-17 06:10:00,2022-04-17,6,6,Sunday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.106,92.091
+2022-04-17 05:10:00,2022-04-17,5,6,Sunday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.106,91.456
+2022-04-17 04:20:00,2022-04-17,4,6,Sunday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.106,90.925
+2022-04-17 03:00:00,2022-04-17,3,6,Sunday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.106,90.072
+2022-07-06 00:40:00,2022-07-06,0,2,Wednesday,7,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.106,115.984
+2022-07-06 03:10:00,2022-07-06,3,2,Wednesday,7,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.106,117.589
+2022-04-17 01:50:00,2022-04-17,1,6,Sunday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.106,89.327
+2022-04-16 18:50:00,2022-04-16,18,5,Saturday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.106,84.979
+2022-07-06 06:20:00,2022-07-06,6,2,Wednesday,7,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.106,119.626
+2022-07-06 05:50:00,2022-07-06,5,2,Wednesday,7,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.106,119.308
+2021-01-12 03:40:00,2021-01-12,3,1,Tuesday,1,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.106,33.511
+2021-01-12 03:50:00,2021-01-12,3,1,Tuesday,1,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.106,33.617
+2022-07-06 03:40:00,2022-07-06,3,2,Wednesday,7,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.106,117.911
+2022-03-01 16:50:00,2022-03-01,16,1,Tuesday,3,2022,S0061,,CL_B,R021,Shared bathroom,hot water consumption,Shower,0.106,96.502
+2021-01-12 01:50:00,2021-01-12,1,1,Tuesday,1,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.106,32.336
+2022-04-18 01:50:00,2022-04-18,1,0,Monday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.106,104.234
+2021-04-17 19:30:00,2021-04-17,19,5,Saturday,4,2021,S0112,APT_003,CL_C,R028,Bathroom,hot water consumption,Shower,0.106,116.267
+2021-03-23 22:50:00,2021-03-23,22,1,Tuesday,3,2021,S0061,,CL_B,R021,Shared bathroom,hot water consumption,Shower,0.106,59.283
+2022-04-17 02:10:00,2022-04-17,2,6,Sunday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.106,89.541
+2022-04-17 01:40:00,2022-04-17,1,6,Sunday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.106,89.221
+2022-04-17 02:30:00,2022-04-17,2,6,Sunday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.106,89.754
+2022-04-18 02:00:00,2022-04-18,2,0,Monday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.106,104.34
+2022-04-18 02:20:00,2022-04-18,2,0,Monday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.106,104.551
+2021-11-12 06:10:00,2021-11-12,6,4,Friday,11,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.105,57.862
+2021-11-11 23:40:00,2021-11-11,23,3,Thursday,11,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.105,53.726
+2021-11-11 23:30:00,2021-11-11,23,3,Thursday,11,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.105,53.621
+2021-11-11 23:00:00,2021-11-11,23,3,Thursday,11,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.105,53.306
+2021-11-12 05:20:00,2021-11-12,5,4,Friday,11,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.105,57.332
+2022-07-06 07:50:00,2022-07-06,7,2,Wednesday,7,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.105,120.571
+2022-07-06 06:50:00,2022-07-06,6,2,Wednesday,7,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.105,119.942
+2022-07-06 07:30:00,2022-07-06,7,2,Wednesday,7,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.105,120.361
+2021-11-11 22:40:00,2021-11-11,22,3,Thursday,11,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.105,53.097
+2020-04-19 06:40:00,2020-04-19,6,6,Sunday,4,2020,S0210,,,R001,Laundry studio,cold water consumption,Washbasin,0.105,12.772
+2021-11-12 03:20:00,2021-11-12,3,4,Friday,11,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.105,56.056
+2021-11-12 03:30:00,2021-11-12,3,4,Friday,11,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.105,56.161
+2021-11-12 00:40:00,2021-11-12,0,4,Friday,11,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.105,54.359
+2022-04-18 01:30:00,2022-04-18,1,0,Monday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.105,104.022
+2022-04-18 01:00:00,2022-04-18,1,0,Monday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.105,103.704
+2022-04-18 00:30:00,2022-04-18,0,0,Monday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.105,103.389
+2022-07-06 14:00:00,2022-07-06,14,2,Wednesday,7,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.105,124.421
+2022-07-06 15:20:00,2022-07-06,15,2,Wednesday,7,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.105,125.253
+2021-10-28 15:00:00,2021-10-28,15,3,Thursday,10,2021,S0061,,CL_B,R021,Shared bathroom,hot water consumption,Shower,0.105,77.982
+2021-10-20 21:50:00,2021-10-20,21,2,Wednesday,10,2021,S0178,,CL_G,R048,Shared bathroom,hot water consumption,Shower,0.105,98.127
+2022-07-06 06:40:00,2022-07-06,6,2,Wednesday,7,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.105,119.837
+2022-07-06 10:40:00,2022-07-06,10,2,Wednesday,7,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.105,122.344
+2022-07-06 11:00:00,2022-07-06,11,2,Wednesday,7,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.105,122.553
+2022-07-06 15:50:00,2022-07-06,15,2,Wednesday,7,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.105,125.566
+2022-02-17 10:10:00,2022-02-17,10,3,Thursday,2,2022,S0187,APT_011,CL_G,R044,Living room,hot water consumption,Washbasin,0.105,0.875
+2022-07-06 16:00:00,2022-07-06,16,2,Wednesday,7,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.105,125.671
+2021-11-12 00:00:00,2021-11-12,0,4,Friday,11,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.105,53.936
+2022-04-18 07:50:00,2022-04-18,7,0,Monday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.105,108.051
+2021-11-11 23:50:00,2021-11-11,23,3,Thursday,11,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.105,53.831
+2022-04-18 04:40:00,2022-04-18,4,0,Monday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.105,106.037
+2022-04-18 04:00:00,2022-04-18,4,0,Monday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.105,105.611
+2022-04-18 07:00:00,2022-04-18,7,0,Monday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.105,107.526
+2022-04-18 07:10:00,2022-04-18,7,0,Monday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.105,107.631
+2022-04-18 07:30:00,2022-04-18,7,0,Monday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.105,107.842
+2022-07-06 08:30:00,2022-07-06,8,2,Wednesday,7,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.105,120.99
+2022-07-06 09:50:00,2022-07-06,9,2,Wednesday,7,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.105,121.824
+2022-07-06 08:40:00,2022-07-06,8,2,Wednesday,7,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.105,121.095
+2022-08-11 08:30:00,2022-08-11,8,3,Thursday,8,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.105,127.142
+2022-08-11 08:20:00,2022-08-11,8,3,Thursday,8,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.105,127.037
+2022-07-06 11:50:00,2022-07-06,11,2,Wednesday,7,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.105,123.073
+2022-07-06 07:40:00,2022-07-06,7,2,Wednesday,7,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.105,120.466
+2021-11-12 06:50:00,2021-11-12,6,4,Friday,11,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.105,58.279
+2021-11-12 02:10:00,2021-11-12,2,4,Friday,11,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.105,55.313
+2021-11-12 00:20:00,2021-11-12,0,4,Friday,11,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.105,54.147
+2021-11-12 02:40:00,2021-11-12,2,4,Friday,11,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.105,55.632
+2021-11-12 05:50:00,2021-11-12,5,4,Friday,11,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.105,57.651
+2022-04-17 02:40:00,2022-04-17,2,6,Sunday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.105,89.859
+2022-04-17 01:20:00,2022-04-17,1,6,Sunday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.105,89.01
+2022-04-17 01:30:00,2022-04-17,1,6,Sunday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.105,89.115
+2021-01-11 23:50:00,2021-01-11,23,0,Monday,1,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.105,31.068
+2021-01-12 00:20:00,2021-01-12,0,1,Tuesday,1,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.105,31.383
+2022-05-30 12:20:00,2022-05-30,12,0,Monday,5,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.105,112.191
+2022-04-18 08:10:00,2022-04-18,8,0,Monday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.105,108.26
+2021-01-12 05:30:00,2021-01-12,5,1,Tuesday,1,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.105,34.662
+2021-01-12 05:20:00,2021-01-12,5,1,Tuesday,1,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.105,34.557
+2021-01-12 05:10:00,2021-01-12,5,1,Tuesday,1,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.105,34.452
+2021-04-17 19:20:00,2021-04-17,19,5,Saturday,4,2021,S0112,APT_003,CL_C,R028,Bathroom,hot water consumption,Shower,0.105,116.161
+2021-01-12 04:00:00,2021-01-12,4,1,Tuesday,1,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.105,33.722
+2021-01-12 04:20:00,2021-01-12,4,1,Tuesday,1,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.105,33.931
+2021-01-11 23:20:00,2021-01-11,23,0,Monday,1,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.105,30.755
+2021-01-11 23:30:00,2021-01-11,23,0,Monday,1,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.105,30.86
+2022-03-01 19:00:00,2022-03-01,19,1,Tuesday,3,2022,S0061,,CL_B,R021,Shared bathroom,hot water consumption,Shower,0.105,96.628
+2022-07-06 06:00:00,2022-07-06,6,2,Wednesday,7,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.105,119.413
+2022-04-18 02:10:00,2022-04-18,2,0,Monday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.105,104.445
+2021-01-12 00:30:00,2021-01-12,0,1,Tuesday,1,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.105,31.488
+2022-04-17 05:50:00,2022-04-17,5,6,Sunday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.105,91.879
+2022-04-17 05:30:00,2022-04-17,5,6,Sunday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.105,91.667
+2020-11-29 10:30:00,2020-11-29,10,6,Sunday,11,2020,S0210,,,R001,Laundry studio,cold water consumption,Washbasin,0.105,16.148
+2022-04-17 03:30:00,2022-04-17,3,6,Sunday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.105,90.391
+2022-07-06 00:20:00,2022-07-06,0,2,Wednesday,7,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.105,115.772
+2022-07-05 23:20:00,2022-07-05,23,1,Tuesday,7,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.105,115.14
+2022-04-17 07:50:00,2022-04-17,7,6,Sunday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.105,93.151
+2022-04-17 07:30:00,2022-04-17,7,6,Sunday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.105,92.942
+2020-04-20 03:00:00,2020-04-20,3,0,Monday,4,2020,S0144,,CL_D,R040,Shared bathroom,hot water consumption,Shower,0.105,73.437
+2020-04-23 15:50:00,2020-04-23,15,3,Thursday,4,2020,S0062,,CL_B,R021,Shared bathroom,cold water consumption,Shower,0.105,29.505
+2022-04-17 23:50:00,2022-04-17,23,6,Sunday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.105,102.972
+2022-07-06 01:20:00,2022-07-06,1,2,Wednesday,7,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.105,116.411
+2022-12-02 16:10:00,2022-12-02,16,4,Friday,12,2022,S0178,,CL_G,R048,Shared bathroom,hot water consumption,Shower,0.104,125.92
+2022-10-06 13:10:00,2022-10-06,13,3,Thursday,10,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.104,132.376
+2022-04-17 11:10:00,2022-04-17,11,6,Sunday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.104,95.17
+2022-04-17 10:50:00,2022-04-17,10,6,Sunday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.104,94.963
+2022-04-17 10:10:00,2022-04-17,10,6,Sunday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.104,94.553
+2022-04-17 10:00:00,2022-04-17,10,6,Sunday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.104,94.449
+2022-07-05 23:40:00,2022-07-05,23,1,Tuesday,7,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.104,115.348
+2022-07-05 23:30:00,2022-07-05,23,1,Tuesday,7,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.104,115.244
+2022-04-17 08:00:00,2022-04-17,8,6,Sunday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.104,93.255
+2022-04-17 07:40:00,2022-04-17,7,6,Sunday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.104,93.046
+2022-04-17 14:30:00,2022-04-17,14,6,Sunday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.104,97.224
+2022-04-17 12:50:00,2022-04-17,12,6,Sunday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.104,96.198
+2022-04-17 12:20:00,2022-04-17,12,6,Sunday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.104,95.89
+2022-06-07 07:50:00,2022-06-07,7,1,Tuesday,6,2022,S0026,,CL_H,R012,Shared bathroom,cold water consumption,Shower,0.104,56.24
+2022-06-01 12:00:00,2022-06-01,12,2,Wednesday,6,2022,S0210,,,R001,Laundry studio,cold water consumption,Washbasin,0.104,25.203
+2022-05-30 14:40:00,2022-05-30,14,0,Monday,5,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.104,113.64
+2022-05-30 14:30:00,2022-05-30,14,0,Monday,5,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.104,113.536
+2022-04-17 00:40:00,2022-04-17,0,6,Sunday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.104,88.591
+2022-04-17 00:20:00,2022-04-17,0,6,Sunday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.104,88.384
+2022-04-16 22:50:00,2022-04-16,22,5,Saturday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.104,87.45
+2022-04-16 22:40:00,2022-04-16,22,5,Saturday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.104,87.346
+2022-04-16 21:50:00,2022-04-16,21,5,Saturday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.104,86.83
+2022-04-17 00:50:00,2022-04-17,0,6,Sunday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.104,88.695
+2022-04-16 23:30:00,2022-04-16,23,5,Saturday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.104,87.864
+2022-04-16 23:00:00,2022-04-16,23,5,Saturday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.104,87.554
+2022-04-17 15:50:00,2022-04-17,15,6,Sunday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.104,98.047
+2022-04-17 15:10:00,2022-04-17,15,6,Sunday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.104,97.635
+2022-05-30 13:30:00,2022-05-30,13,0,Monday,5,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.104,112.916
+2022-05-30 13:10:00,2022-05-30,13,0,Monday,5,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.104,112.709
+2022-05-30 13:00:00,2022-05-30,13,0,Monday,5,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.104,112.605
+2022-05-30 12:40:00,2022-05-30,12,0,Monday,5,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.104,112.398
+2022-05-30 12:00:00,2022-05-30,12,0,Monday,5,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.104,111.983
+2022-05-30 11:50:00,2022-05-30,11,0,Monday,5,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.104,111.879
+2022-04-18 08:00:00,2022-04-18,8,0,Monday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.104,108.155
+2022-04-16 21:00:00,2022-04-16,21,5,Saturday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.104,86.315
+2022-02-23 14:00:00,2022-02-23,14,2,Wednesday,2,2022,S0037,APT_001,CL_H,R010,Living room,cold water consumption,Toilet,0.104,39.443
+2021-11-12 06:30:00,2021-11-12,6,4,Friday,11,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.104,58.07
+2021-11-12 06:40:00,2021-11-12,6,4,Friday,11,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.104,58.174
+2021-11-12 06:20:00,2021-11-12,6,4,Friday,11,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.104,57.966
+2021-11-11 23:10:00,2021-11-11,23,3,Thursday,11,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.104,53.41
+2021-11-11 22:50:00,2021-11-11,22,3,Thursday,11,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.104,53.201
+2022-07-06 08:00:00,2022-07-06,8,2,Wednesday,7,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.104,120.675
+2022-07-06 07:20:00,2022-07-06,7,2,Wednesday,7,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.104,120.256
+2022-07-06 07:00:00,2022-07-06,7,2,Wednesday,7,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.104,120.046
+2022-04-18 07:40:00,2022-04-18,7,0,Monday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.104,107.946
+2022-04-17 18:40:00,2022-04-17,18,6,Sunday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.104,99.791
+2022-04-17 18:20:00,2022-04-17,18,6,Sunday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.104,99.585
+2022-07-06 11:20:00,2022-07-06,11,2,Wednesday,7,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.104,122.761
+2022-07-06 11:10:00,2022-07-06,11,2,Wednesday,7,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.104,122.657
+2022-07-06 10:50:00,2022-07-06,10,2,Wednesday,7,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.104,122.448
+2022-07-06 10:20:00,2022-07-06,10,2,Wednesday,7,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.104,122.136
+2022-07-06 10:10:00,2022-07-06,10,2,Wednesday,7,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.104,122.032
+2022-07-06 10:00:00,2022-07-06,10,2,Wednesday,7,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.104,121.928
+2022-07-06 09:30:00,2022-07-06,9,2,Wednesday,7,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.104,121.616
+2022-07-06 09:20:00,2022-07-06,9,2,Wednesday,7,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.104,121.512
+2022-07-06 09:10:00,2022-07-06,9,2,Wednesday,7,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.104,121.408
+2022-07-06 08:20:00,2022-07-06,8,2,Wednesday,7,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.104,120.885
+2022-04-17 21:50:00,2022-04-17,21,6,Sunday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.104,101.738
+2022-07-06 14:50:00,2022-07-06,14,2,Wednesday,7,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.104,124.941
+2022-07-06 14:40:00,2022-07-06,14,2,Wednesday,7,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.104,124.837
+2022-07-06 14:30:00,2022-07-06,14,2,Wednesday,7,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.104,124.733
+2022-07-06 14:20:00,2022-07-06,14,2,Wednesday,7,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.104,124.629
+2022-07-06 14:10:00,2022-07-06,14,2,Wednesday,7,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.104,124.525
+2022-07-06 13:40:00,2022-07-06,13,2,Wednesday,7,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.104,124.213
+2022-07-06 13:30:00,2022-07-06,13,2,Wednesday,7,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.104,124.109
+2022-07-06 13:20:00,2022-07-06,13,2,Wednesday,7,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.104,124.005
+2022-07-06 13:10:00,2022-07-06,13,2,Wednesday,7,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.104,123.901
+2022-07-06 12:50:00,2022-07-06,12,2,Wednesday,7,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.104,123.694
+2022-07-06 12:40:00,2022-07-06,12,2,Wednesday,7,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.104,123.59
+2022-07-06 12:10:00,2022-07-06,12,2,Wednesday,7,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.104,123.28
+2022-07-06 11:30:00,2022-07-06,11,2,Wednesday,7,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.104,122.865
+2022-08-11 08:10:00,2022-08-11,8,3,Thursday,8,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.104,126.932
+2022-08-11 08:00:00,2022-08-11,8,3,Thursday,8,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.104,126.828
+2022-07-06 16:30:00,2022-07-06,16,2,Wednesday,7,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.104,125.982
+2022-07-06 16:20:00,2022-07-06,16,2,Wednesday,7,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.104,125.878
+2022-07-06 15:40:00,2022-07-06,15,2,Wednesday,7,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.104,125.461
+2022-07-06 15:30:00,2022-07-06,15,2,Wednesday,7,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.104,125.357
+2022-07-06 15:10:00,2022-07-06,15,2,Wednesday,7,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.104,125.148
+2021-09-30 15:20:00,2021-09-30,15,3,Thursday,9,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.104,46.02
+2022-08-11 08:50:00,2022-08-11,8,3,Thursday,8,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.104,127.349
+2022-04-18 02:50:00,2022-04-18,2,0,Monday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.104,104.869
+2022-04-18 00:50:00,2022-04-18,0,0,Monday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.104,103.599
+2021-03-16 22:50:00,2021-03-16,22,1,Tuesday,3,2021,S0061,,CL_B,R021,Shared bathroom,hot water consumption,Shower,0.104,58.187
+2021-05-17 12:40:00,2021-05-17,12,0,Monday,5,2021,S0209,,,R001,Laundry studio,hot water consumption,Washbasin,0.104,9.388
+2021-02-02 22:10:00,2021-02-02,22,1,Tuesday,2,2021,S0061,,CL_B,R021,Shared bathroom,hot water consumption,Shower,0.104,50.805
+2021-01-12 04:40:00,2021-01-12,4,1,Tuesday,1,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.104,34.139
+2021-01-12 06:40:00,2021-01-12,6,1,Tuesday,1,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.104,35.386
+2021-01-12 06:10:00,2021-01-12,6,1,Tuesday,1,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.104,35.076
+2021-01-12 05:50:00,2021-01-12,5,1,Tuesday,1,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.104,34.869
+2021-01-12 05:00:00,2021-01-12,5,1,Tuesday,1,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.104,34.347
+2021-01-12 04:50:00,2021-01-12,4,1,Tuesday,1,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.104,34.243
+2021-01-12 00:00:00,2021-01-12,0,1,Tuesday,1,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.104,31.172
+2021-01-12 04:30:00,2021-01-12,4,1,Tuesday,1,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.104,34.035
+2021-01-12 04:10:00,2021-01-12,4,1,Tuesday,1,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.104,33.826
+2022-10-06 10:10:00,2022-10-06,10,3,Thursday,10,2022,S0053,,CL_B,R013,Shared space,hot water consumption,Kitchen tap,0.104,83.162
+2020-08-20 22:00:00,2020-08-20,22,3,Thursday,8,2020,S0130,APT_027,CL_D,R035,Living room,cold water consumption,Toilet,0.104,13.763
+2020-03-30 08:30:00,2020-03-30,8,0,Monday,3,2020,S0204,,,R001,Laundry studio,cold water consumption,Washing machine,0.104,39.83
+2022-04-17 23:20:00,2022-04-17,23,6,Sunday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.104,102.662
+2020-01-23 16:20:00,2020-01-23,16,3,Thursday,1,2020,S0178,,CL_G,R048,Shared bathroom,hot water consumption,Shower,0.103,76.916
+2021-01-06 15:20:00,2021-01-06,15,2,Wednesday,1,2021,S0059,,CL_B,R020,Shared bathroom,hot water consumption,Shower,0.103,50.426
+2022-04-17 19:00:00,2022-04-17,19,6,Sunday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.103,99.996
+2022-04-17 19:20:00,2022-04-17,19,6,Sunday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.103,100.202
+2022-04-17 19:10:00,2022-04-17,19,6,Sunday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.103,100.099
+2022-04-17 19:30:00,2022-04-17,19,6,Sunday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.103,100.305
+2022-05-30 12:50:00,2022-05-30,12,0,Monday,5,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.103,112.501
+2022-05-30 12:10:00,2022-05-30,12,0,Monday,5,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.103,112.086
+2022-04-17 22:50:00,2022-04-17,22,6,Sunday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.103,102.352
+2022-04-17 17:50:00,2022-04-17,17,6,Sunday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.103,99.276
+2022-04-17 18:00:00,2022-04-17,18,6,Sunday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.103,99.379
+2022-04-17 14:50:00,2022-04-17,14,6,Sunday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.103,97.43
+2022-04-17 14:40:00,2022-04-17,14,6,Sunday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.103,97.327
+2022-04-17 14:10:00,2022-04-17,14,6,Sunday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.103,97.018
+2022-04-17 13:50:00,2022-04-17,13,6,Sunday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.103,96.813
+2022-04-17 13:30:00,2022-04-17,13,6,Sunday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.103,96.607
+2022-05-30 12:30:00,2022-05-30,12,0,Monday,5,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.103,112.294
+2022-05-30 13:20:00,2022-05-30,13,0,Monday,5,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.103,112.812
+2022-04-17 22:30:00,2022-04-17,22,6,Sunday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.103,102.147
+2021-01-12 06:00:00,2021-01-12,6,1,Tuesday,1,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.103,34.972
+2021-01-11 23:10:00,2021-01-11,23,0,Monday,1,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.103,30.65
+2021-01-12 06:20:00,2021-01-12,6,1,Tuesday,1,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.103,35.179
+2021-01-12 06:30:00,2021-01-12,6,1,Tuesday,1,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.103,35.282
+2022-04-17 20:10:00,2022-04-17,20,6,Sunday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.103,100.713
+2021-01-11 23:00:00,2021-01-11,23,0,Monday,1,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.103,30.547
+2021-01-11 23:40:00,2021-01-11,23,0,Monday,1,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.103,30.963
+2022-04-17 17:10:00,2022-04-17,17,6,Sunday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.103,98.867
+2022-06-07 08:10:00,2022-06-07,8,1,Tuesday,6,2022,S0082,APT_002,CL_F,R022,Bathroom,hot water consumption,Shower,0.103,89.324
+2022-06-07 08:00:00,2022-06-07,8,1,Tuesday,6,2022,S0178,,CL_G,R048,Shared bathroom,hot water consumption,Shower,0.103,118.7
+2022-04-17 15:20:00,2022-04-17,15,6,Sunday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.103,97.738
+2022-04-17 15:30:00,2022-04-17,15,6,Sunday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.103,97.841
+2022-04-17 16:10:00,2022-04-17,16,6,Sunday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.103,98.252
+2022-04-17 13:40:00,2022-04-17,13,6,Sunday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.103,96.71
+2022-04-17 12:00:00,2022-04-17,12,6,Sunday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.103,95.683
+2022-04-17 12:10:00,2022-04-17,12,6,Sunday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.103,95.786
+2022-04-17 16:50:00,2022-04-17,16,6,Sunday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.103,98.662
+2022-04-17 16:40:00,2022-04-17,16,6,Sunday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.103,98.559
+2021-11-12 07:40:00,2021-11-12,7,4,Friday,11,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.103,58.791
+2022-07-06 11:40:00,2022-07-06,11,2,Wednesday,7,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.103,122.968
+2022-07-06 12:20:00,2022-07-06,12,2,Wednesday,7,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.103,123.383
+2022-07-06 09:00:00,2022-07-06,9,2,Wednesday,7,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.103,121.304
+2022-07-06 12:00:00,2022-07-06,12,2,Wednesday,7,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.103,123.176
+2022-07-06 10:30:00,2022-07-06,10,2,Wednesday,7,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.103,122.239
+2022-02-23 14:00:00,2022-02-23,14,2,Wednesday,2,2022,S0191,APT_008,CL_G,R043,Living room,hot water consumption,Kitchen tap,0.103,3.691
+2022-04-16 21:10:00,2022-04-16,21,5,Saturday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.103,86.418
+2022-04-16 20:20:00,2022-04-16,20,5,Saturday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.103,85.9
+2022-04-16 20:10:00,2022-04-16,20,5,Saturday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.103,85.797
+2022-04-16 20:00:00,2022-04-16,20,5,Saturday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.103,85.694
+2021-01-12 05:40:00,2021-01-12,5,1,Tuesday,1,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.103,34.765
+2021-01-12 09:10:00,2021-01-12,9,1,Tuesday,1,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.103,36.911
+2022-10-03 23:30:00,2022-10-03,23,0,Monday,10,2022,S0133,APT_025,CL_D,R036,Living room,cold water consumption,Kitchen tap,0.103,1.331
+2022-07-06 13:50:00,2022-07-06,13,2,Wednesday,7,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.103,124.316
+2022-07-06 13:00:00,2022-07-06,13,2,Wednesday,7,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.103,123.797
+2022-07-06 12:30:00,2022-07-06,12,2,Wednesday,7,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.103,123.486
+2021-11-12 07:00:00,2021-11-12,7,4,Friday,11,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.103,58.382
+2022-03-07 08:50:00,2022-03-07,8,0,Monday,3,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.103,82.508
+2022-02-23 14:00:00,2022-02-23,14,2,Wednesday,2,2022,S0089,APT_006,CL_I,R027,Kitchen,cold water consumption,Kitchen tap,0.103,6.857
+2022-02-17 10:10:00,2022-02-17,10,3,Thursday,2,2022,S0051,,CL_B,R021,Shared bathroom,hot water consumption,Washbasin,0.103,3.883
+2022-03-07 08:30:00,2022-03-07,8,0,Monday,3,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.103,82.303
+2022-04-16 22:30:00,2022-04-16,22,5,Saturday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.103,87.242
+2022-04-16 22:20:00,2022-04-16,22,5,Saturday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.103,87.139
+2022-04-16 22:10:00,2022-04-16,22,5,Saturday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.103,87.036
+2022-04-16 22:00:00,2022-04-16,22,5,Saturday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.103,86.933
+2022-04-16 21:40:00,2022-04-16,21,5,Saturday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.103,86.726
+2022-04-16 21:30:00,2022-04-16,21,5,Saturday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.103,86.623
+2022-04-17 00:30:00,2022-04-17,0,6,Sunday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.103,88.487
+2022-04-16 23:10:00,2022-04-16,23,5,Saturday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.103,87.657
+2022-04-06 13:00:00,2022-04-06,13,2,Wednesday,4,2022,S0144,,CL_D,R040,Shared bathroom,hot water consumption,Shower,0.103,125.536
+2022-04-16 19:10:00,2022-04-16,19,5,Saturday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.103,85.183
+2022-04-16 23:20:00,2022-04-16,23,5,Saturday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.103,87.76
+2022-03-07 09:10:00,2022-03-07,9,0,Monday,3,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.103,82.713
+2022-04-17 11:00:00,2022-04-17,11,6,Sunday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.103,95.066
+2022-04-17 10:20:00,2022-04-17,10,6,Sunday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.103,94.656
+2022-04-17 11:40:00,2022-04-17,11,6,Sunday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.103,95.477
+2022-04-17 11:50:00,2022-04-17,11,6,Sunday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.103,95.58
+2022-07-06 16:40:00,2022-07-06,16,2,Wednesday,7,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.103,126.085
+2021-11-11 14:20:00,2021-11-11,14,3,Thursday,11,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.103,48.01
+2021-09-30 14:50:00,2021-09-30,14,3,Thursday,9,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.103,45.714
+2022-07-06 16:10:00,2022-07-06,16,2,Wednesday,7,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.103,125.774
+2022-08-11 08:40:00,2022-08-11,8,3,Thursday,8,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.103,127.245
+2022-04-17 23:10:00,2022-04-17,23,6,Sunday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.103,102.558
+2021-11-11 22:30:00,2021-11-11,22,3,Thursday,11,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.103,52.992
+2022-04-17 21:30:00,2022-04-17,21,6,Sunday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.103,101.532
+2021-11-11 17:40:00,2021-11-11,17,3,Thursday,11,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.103,50.044
+2021-02-16 22:40:00,2021-02-16,22,1,Tuesday,2,2021,S0061,,CL_B,R021,Shared bathroom,hot water consumption,Shower,0.103,53.009
+2021-01-26 21:40:00,2021-01-26,21,1,Tuesday,1,2021,S0061,,CL_B,R021,Shared bathroom,hot water consumption,Shower,0.103,50.028
+2022-04-17 20:20:00,2022-04-17,20,6,Sunday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.103,100.816
+2022-04-17 23:00:00,2022-04-17,23,6,Sunday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.103,102.455
+2022-04-18 00:10:00,2022-04-18,0,0,Monday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.103,103.178
+2022-04-18 00:00:00,2022-04-18,0,0,Monday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.103,103.075
+2022-04-17 23:40:00,2022-04-17,23,6,Sunday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.103,102.867
+2021-11-11 16:10:00,2021-11-11,16,3,Thursday,11,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.103,49.13
+2021-11-11 18:10:00,2021-11-11,18,3,Thursday,11,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.103,50.351
+2022-07-06 15:00:00,2022-07-06,15,2,Wednesday,7,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.103,125.044
+2021-01-12 10:40:00,2021-01-12,10,1,Tuesday,1,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.103,37.82
+2022-04-17 21:00:00,2022-04-17,21,6,Sunday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.103,101.225
+2022-07-06 09:40:00,2022-07-06,9,2,Wednesday,7,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.103,121.719
+2022-04-17 13:20:00,2022-04-17,13,6,Sunday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.102,96.504
+2022-04-17 14:00:00,2022-04-17,14,6,Sunday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.102,96.915
+2022-04-17 12:30:00,2022-04-17,12,6,Sunday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.102,95.992
+2022-04-17 13:10:00,2022-04-17,13,6,Sunday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.102,96.402
+2022-04-17 13:00:00,2022-04-17,13,6,Sunday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.102,96.3
+2022-04-17 12:40:00,2022-04-17,12,6,Sunday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.102,96.094
+2022-04-18 10:10:00,2022-04-18,10,0,Monday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.102,109.447
+2021-01-12 07:10:00,2021-01-12,7,1,Tuesday,1,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.102,35.692
+2021-01-12 07:00:00,2021-01-12,7,1,Tuesday,1,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.102,35.59
+2021-01-12 06:50:00,2021-01-12,6,1,Tuesday,1,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.102,35.488
+2022-04-17 22:40:00,2022-04-17,22,6,Sunday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.102,102.249
+2021-01-11 21:40:00,2021-01-11,21,0,Monday,1,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.102,29.74
+2021-01-11 22:50:00,2021-01-11,22,0,Monday,1,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.102,30.444
+2020-03-30 08:30:00,2020-03-30,8,0,Monday,3,2020,S0082,APT_002,CL_F,R022,Bathroom,hot water consumption,Shower,0.102,39.439
+2022-04-17 19:40:00,2022-04-17,19,6,Sunday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.102,100.407
+2020-12-12 01:10:00,2020-12-12,1,5,Saturday,12,2020,S0144,,CL_D,R040,Shared bathroom,hot water consumption,Shower,0.102,90.636
+2022-04-17 14:20:00,2022-04-17,14,6,Sunday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.102,97.12
+2022-05-30 14:50:00,2022-05-30,14,0,Monday,5,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.102,113.742
+2022-04-17 16:30:00,2022-04-17,16,6,Sunday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.102,98.456
+2022-04-17 17:00:00,2022-04-17,17,6,Sunday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.102,98.764
+2022-04-17 17:30:00,2022-04-17,17,6,Sunday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.102,99.071
+2022-04-17 17:20:00,2022-04-17,17,6,Sunday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.102,98.969
+2022-04-17 15:40:00,2022-04-17,15,6,Sunday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.102,97.943
+2022-04-17 16:00:00,2022-04-17,16,6,Sunday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.102,98.149
+2022-04-17 16:20:00,2022-04-17,16,6,Sunday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.102,98.354
+2022-05-30 13:40:00,2022-05-30,13,0,Monday,5,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.102,113.018
+2022-04-18 10:50:00,2022-04-18,10,0,Monday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.102,109.853
+2022-04-17 22:10:00,2022-04-17,22,6,Sunday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.102,101.942
+2022-04-17 22:20:00,2022-04-17,22,6,Sunday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.102,102.044
+2022-04-17 18:50:00,2022-04-17,18,6,Sunday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.102,99.893
+2022-04-17 18:10:00,2022-04-17,18,6,Sunday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.102,99.481
+2022-04-17 18:30:00,2022-04-17,18,6,Sunday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.102,99.687
+2022-04-17 17:40:00,2022-04-17,17,6,Sunday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.102,99.173
+2022-04-18 10:40:00,2022-04-18,10,0,Monday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.102,109.751
+2022-04-17 20:00:00,2022-04-17,20,6,Sunday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.102,100.61
+2022-04-18 09:40:00,2022-04-18,9,0,Monday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.102,109.141
+2022-04-18 10:00:00,2022-04-18,10,0,Monday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.102,109.345
+2022-04-18 09:50:00,2022-04-18,9,0,Monday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.102,109.243
+2022-04-17 11:30:00,2022-04-17,11,6,Sunday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.102,95.374
+2022-04-17 10:30:00,2022-04-17,10,6,Sunday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.102,94.758
+2022-04-17 11:20:00,2022-04-17,11,6,Sunday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.102,95.272
+2022-02-23 14:00:00,2022-02-23,14,2,Wednesday,2,2022,S0148,APT_025,CL_D,R036,Living room,cold water consumption,Toilet,0.102,22.139
+2021-11-12 07:10:00,2021-11-12,7,4,Friday,11,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.102,58.484
+2021-11-12 07:50:00,2021-11-12,7,4,Friday,11,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.102,58.893
+2021-11-12 07:30:00,2021-11-12,7,4,Friday,11,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.102,58.688
+2021-11-11 19:50:00,2021-11-11,19,3,Thursday,11,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.102,51.365
+2021-11-11 20:30:00,2021-11-11,20,3,Thursday,11,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.102,51.769
+2021-11-12 07:20:00,2021-11-12,7,4,Friday,11,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.102,58.586
+2021-01-12 07:20:00,2021-01-12,7,1,Tuesday,1,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.102,35.794
+2021-11-11 20:50:00,2021-11-11,20,3,Thursday,11,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.102,51.972
+2021-01-12 10:00:00,2021-01-12,10,1,Tuesday,1,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.102,37.416
+2021-01-12 08:50:00,2021-01-12,8,1,Tuesday,1,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.102,36.708
+2021-01-12 08:20:00,2021-01-12,8,1,Tuesday,1,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.102,36.403
+2021-01-12 08:30:00,2021-01-12,8,1,Tuesday,1,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.102,36.505
+2021-01-12 08:10:00,2021-01-12,8,1,Tuesday,1,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.102,36.301
+2021-01-12 07:30:00,2021-01-12,7,1,Tuesday,1,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.102,35.896
+2022-03-07 08:40:00,2022-03-07,8,0,Monday,3,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.102,82.405
+2022-02-23 14:00:00,2022-02-23,14,2,Wednesday,2,2022,S0195,APT_008,CL_G,R043,Living room,cold water consumption,Toilet,0.102,20.645
+2022-03-07 09:00:00,2022-03-07,9,0,Monday,3,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.102,82.61
+2022-06-07 08:10:00,2022-06-07,8,1,Tuesday,6,2022,S0202,,,R001,Laundry studio,cold water consumption,Washing machine,0.102,86.395
+2022-04-16 19:20:00,2022-04-16,19,5,Saturday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.102,85.285
+2022-04-17 08:40:00,2022-04-17,8,6,Sunday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.102,93.658
+2022-04-16 21:20:00,2022-04-16,21,5,Saturday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.102,86.52
+2021-11-11 18:00:00,2021-11-11,18,3,Thursday,11,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.102,50.248
+2021-11-11 19:00:00,2021-11-11,19,3,Thursday,11,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.102,50.857
+2021-11-11 18:40:00,2021-11-11,18,3,Thursday,11,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.102,50.654
+2021-11-11 21:10:00,2021-11-11,21,3,Thursday,11,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.102,52.176
+2021-11-11 21:20:00,2021-11-11,21,3,Thursday,11,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.102,52.278
+2021-11-11 19:30:00,2021-11-11,19,3,Thursday,11,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.102,51.162
+2021-11-11 22:10:00,2021-11-11,22,3,Thursday,11,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.102,52.788
+2021-11-11 21:40:00,2021-11-11,21,3,Thursday,11,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.102,52.482
+2021-11-11 21:30:00,2021-11-11,21,3,Thursday,11,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.102,52.38
+2021-11-11 22:00:00,2021-11-11,22,3,Thursday,11,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.102,52.686
+2021-11-11 21:50:00,2021-11-11,21,3,Thursday,11,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.102,52.584
+2021-11-11 15:00:00,2021-11-11,15,3,Thursday,11,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.102,48.417
+2021-11-11 15:20:00,2021-11-11,15,3,Thursday,11,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.102,48.62
+2021-11-11 15:30:00,2021-11-11,15,3,Thursday,11,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.102,48.722
+2021-11-11 15:40:00,2021-11-11,15,3,Thursday,11,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.102,48.824
+2021-11-11 16:00:00,2021-11-11,16,3,Thursday,11,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.102,49.027
+2021-03-15 18:30:00,2021-03-15,18,0,Monday,3,2021,S0061,,CL_B,R021,Shared bathroom,hot water consumption,Shower,0.102,57.784
+2021-02-09 00:20:00,2021-02-09,0,1,Tuesday,2,2021,S0061,,CL_B,R021,Shared bathroom,hot water consumption,Shower,0.102,51.751
+2021-01-31 23:00:00,2021-01-31,23,6,Sunday,1,2021,S0061,,CL_B,R021,Shared bathroom,hot water consumption,Shower,0.102,50.461
+2021-11-11 17:50:00,2021-11-11,17,3,Thursday,11,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.102,50.146
+2021-02-18 22:30:00,2021-02-18,22,3,Thursday,2,2021,S0061,,CL_B,R021,Shared bathroom,hot water consumption,Shower,0.102,53.327
+2021-02-23 10:50:00,2021-02-23,10,1,Tuesday,2,2021,S0180,,CL_G,R049,Shared bathroom,hot water consumption,Shower,0.102,130.709
+2021-11-11 21:00:00,2021-11-11,21,3,Thursday,11,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.102,52.074
+2021-11-11 19:10:00,2021-11-11,19,3,Thursday,11,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.102,50.959
+2021-11-11 14:40:00,2021-11-11,14,3,Thursday,11,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.102,48.214
+2021-10-24 20:00:00,2021-10-24,20,6,Sunday,10,2021,S0142,,CL_D,R039,Shared bathroom,hot water consumption,Shower,0.102,112.178
+2021-11-11 14:30:00,2021-11-11,14,3,Thursday,11,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.102,48.112
+2020-05-15 09:30:00,2020-05-15,9,4,Friday,5,2020,S0180,,CL_G,R049,Shared bathroom,hot water consumption,Shower,0.102,89.388
+2020-03-16 13:50:00,2020-03-16,13,0,Monday,3,2020,S0178,,CL_G,R048,Shared bathroom,hot water consumption,Shower,0.102,79.415
+2021-11-11 16:40:00,2021-11-11,16,3,Thursday,11,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.102,49.434
+2021-09-30 13:50:00,2021-09-30,13,3,Thursday,9,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.102,45.11
+2021-09-30 14:20:00,2021-09-30,14,3,Thursday,9,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.102,45.413
+2021-09-30 14:10:00,2021-09-30,14,3,Thursday,9,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.102,45.311
+2021-09-30 14:40:00,2021-09-30,14,3,Thursday,9,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.102,45.611
+2021-09-30 15:30:00,2021-09-30,15,3,Thursday,9,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.102,46.122
+2022-04-17 20:40:00,2022-04-17,20,6,Sunday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.102,101.02
+2022-04-17 20:50:00,2022-04-17,20,6,Sunday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.102,101.122
+2022-04-17 21:10:00,2022-04-17,21,6,Sunday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.102,101.327
+2022-04-17 21:20:00,2022-04-17,21,6,Sunday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.102,101.429
+2022-04-17 22:00:00,2022-04-17,22,6,Sunday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.102,101.84
+2022-04-17 21:40:00,2022-04-17,21,6,Sunday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.102,101.634
+2022-04-17 20:30:00,2022-04-17,20,6,Sunday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.102,100.918
+2022-04-17 23:30:00,2022-04-17,23,6,Sunday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.102,102.764
+2021-09-30 15:00:00,2021-09-30,15,3,Thursday,9,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.101,45.815
+2021-09-30 15:10:00,2021-09-30,15,3,Thursday,9,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.101,45.916
+2021-10-16 13:00:00,2021-10-16,13,5,Saturday,10,2021,S0210,,,R001,Laundry studio,cold water consumption,Washbasin,0.101,21.93
+2021-11-11 14:50:00,2021-11-11,14,3,Thursday,11,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.101,48.315
+2021-11-11 16:30:00,2021-11-11,16,3,Thursday,11,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.101,49.332
+2022-12-04 16:10:00,2022-12-04,16,6,Sunday,12,2022,S0174,,CL_G,R041,Shared space,hot water consumption,Kitchen tap,0.101,118.471
+2020-04-23 15:50:00,2020-04-23,15,3,Thursday,4,2020,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.101,19.933
+2021-11-11 14:10:00,2021-11-11,14,3,Thursday,11,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.101,47.907
+2022-08-12 11:10:00,2022-08-12,11,4,Friday,8,2022,S0086,APT_002,CL_F,R022,Bathroom,cold water consumption,Toilet,0.101,110.382
+2021-11-11 22:20:00,2021-11-11,22,3,Thursday,11,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.101,52.889
+2021-11-11 19:40:00,2021-11-11,19,3,Thursday,11,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.101,51.263
+2021-11-11 20:10:00,2021-11-11,20,3,Thursday,11,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.101,51.566
+2021-11-11 20:20:00,2021-11-11,20,3,Thursday,11,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.101,51.667
+2021-11-11 20:40:00,2021-11-11,20,3,Thursday,11,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.101,51.87
+2021-11-11 18:30:00,2021-11-11,18,3,Thursday,11,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.101,50.552
+2021-01-12 10:20:00,2021-01-12,10,1,Tuesday,1,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.101,37.617
+2021-11-11 16:50:00,2021-11-11,16,3,Thursday,11,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.101,49.535
+2021-11-11 17:10:00,2021-11-11,17,3,Thursday,11,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.101,49.737
+2021-11-11 17:00:00,2021-11-11,17,3,Thursday,11,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.101,49.636
+2021-03-03 22:30:00,2021-03-03,22,2,Wednesday,3,2021,S0061,,CL_B,R021,Shared bathroom,hot water consumption,Shower,0.101,55.901
+2021-11-11 16:20:00,2021-11-11,16,3,Thursday,11,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.101,49.231
+2021-11-11 15:50:00,2021-11-11,15,3,Thursday,11,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.101,48.925
+2021-11-11 15:10:00,2021-11-11,15,3,Thursday,11,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.101,48.518
+2021-01-11 19:10:00,2021-01-11,19,0,Monday,1,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.101,28.237
+2020-12-17 10:40:00,2020-12-17,10,3,Thursday,12,2020,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.101,27.405
+2022-04-18 10:20:00,2022-04-18,10,0,Monday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.101,109.548
+2022-04-17 19:50:00,2022-04-17,19,6,Sunday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.101,100.508
+2021-01-11 21:10:00,2021-01-11,21,0,Monday,1,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.101,29.438
+2022-04-18 10:30:00,2022-04-18,10,0,Monday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.101,109.649
+2021-01-11 22:20:00,2021-01-11,22,0,Monday,1,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.101,30.142
+2021-01-11 22:00:00,2021-01-11,22,0,Monday,1,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.101,29.941
+2022-04-17 15:00:00,2022-04-17,15,6,Sunday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.101,97.531
+2021-01-11 20:10:00,2021-01-11,20,0,Monday,1,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.101,28.837
+2022-04-17 08:10:00,2022-04-17,8,6,Sunday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.101,93.356
+2022-06-01 10:50:00,2022-06-01,10,2,Wednesday,6,2022,S0210,,,R001,Laundry studio,cold water consumption,Washbasin,0.101,25.049
+2022-04-17 10:40:00,2022-04-17,10,6,Sunday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.101,94.859
+2022-06-07 08:10:00,2022-06-07,8,1,Tuesday,6,2022,S0180,,CL_G,R049,Shared bathroom,hot water consumption,Shower,0.101,163.567
+2021-11-11 19:20:00,2021-11-11,19,3,Thursday,11,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.101,51.06
+2021-11-11 18:50:00,2021-11-11,18,3,Thursday,11,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.101,50.755
+2021-01-12 09:40:00,2021-01-12,9,1,Tuesday,1,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.101,37.214
+2021-01-12 08:40:00,2021-01-12,8,1,Tuesday,1,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.101,36.606
+2022-04-16 19:30:00,2022-04-16,19,5,Saturday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.101,85.386
+2021-01-12 07:40:00,2021-01-12,7,1,Tuesday,1,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.101,35.997
+2022-10-06 10:10:00,2022-10-06,10,3,Thursday,10,2022,S0096,APT_005,CL_A,R025,Bathroom,hot water consumption,Shower,0.101,60.789
+2021-01-11 22:30:00,2021-01-11,22,0,Monday,1,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.101,30.243
+2022-04-16 19:00:00,2022-04-16,19,5,Saturday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.101,85.08
+2022-02-23 14:00:00,2022-02-23,14,2,Wednesday,2,2022,S0080,APT_002,CL_F,R022,Bathroom,hot water consumption,Washbasin,0.101,30.313
+2021-01-11 20:00:00,2021-01-11,20,0,Monday,1,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.1,28.736
+2021-01-11 19:20:00,2021-01-11,19,0,Monday,1,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.1,28.337
+2021-01-11 19:30:00,2021-01-11,19,0,Monday,1,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.1,28.437
+2021-01-11 19:50:00,2021-01-11,19,0,Monday,1,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.1,28.636
+2020-11-01 16:10:00,2020-11-01,16,6,Sunday,11,2020,S0061,,CL_B,R021,Shared bathroom,hot water consumption,Shower,0.1,42.193
+2020-08-20 22:10:00,2020-08-20,22,3,Thursday,8,2020,S0154,APT_019,CL_D,R037,Living room,cold water consumption,Washbasin,0.1,10.323
+2023-01-09 13:30:00,2023-01-09,13,0,Monday,1,2023,S0148,APT_025,CL_D,R036,Living room,cold water consumption,Toilet,0.1,27.86
+2020-08-20 22:20:00,2020-08-20,22,3,Thursday,8,2020,S0017,,CL_H,R012,Shared bathroom,cold water consumption,Washbasin,0.1,1.299
+2021-04-13 17:00:00,2021-04-13,17,1,Tuesday,4,2021,S0061,,CL_B,R021,Shared bathroom,hot water consumption,Shower,0.1,61.207
+2022-08-12 11:10:00,2022-08-12,11,4,Friday,8,2022,S0113,APT_003,CL_C,R028,Bathroom,cold water consumption,Shower,0.1,71.435
+2023-01-21 16:50:00,2023-01-21,16,5,Saturday,1,2023,S0059,,CL_B,R020,Shared bathroom,hot water consumption,Shower,0.1,74.941
+2020-05-20 16:40:00,2020-05-20,16,2,Wednesday,5,2020,S0178,,CL_G,R048,Shared bathroom,hot water consumption,Shower,0.1,84.069
+2020-04-23 16:00:00,2020-04-23,16,3,Thursday,4,2020,S0102,APT_017,CL_E,R030,Bathroom,hot water consumption,Washbasin,0.1,22.742
+2020-04-23 16:00:00,2020-04-23,16,3,Thursday,4,2020,S0080,APT_002,CL_F,R022,Bathroom,hot water consumption,Washbasin,0.1,22.789
+2021-01-12 09:50:00,2021-01-12,9,1,Tuesday,1,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.1,37.314
+2021-01-12 09:00:00,2021-01-12,9,1,Tuesday,1,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.1,36.808
+2021-03-09 10:40:00,2021-03-09,10,1,Tuesday,3,2021,S0180,,CL_G,R049,Shared bathroom,hot water consumption,Shower,0.1,133.142
+2021-09-19 01:20:00,2021-09-19,1,6,Sunday,9,2021,S0061,,CL_B,R021,Shared bathroom,hot water consumption,Shower,0.1,73.544
+2021-06-27 19:00:00,2021-06-27,19,6,Sunday,6,2021,S0175,,CL_G,R041,Shared space,cold water consumption,Kitchen tap,0.1,82.041
+2021-06-01 00:10:00,2021-06-01,0,1,Tuesday,6,2021,S0061,,CL_B,R021,Shared bathroom,hot water consumption,Shower,0.1,69.02
+2021-11-11 20:00:00,2021-11-11,20,3,Thursday,11,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.1,51.465
+2021-01-12 10:30:00,2021-01-12,10,1,Tuesday,1,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.1,37.717
+2021-01-26 21:50:00,2021-01-26,21,1,Tuesday,1,2021,S0061,,CL_B,R021,Shared bathroom,hot water consumption,Shower,0.1,50.128
+2021-11-11 18:20:00,2021-11-11,18,3,Thursday,11,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.1,50.451
+2022-02-23 13:50:00,2022-02-23,13,2,Wednesday,2,2022,S0184,APT_015,CL_G,R045,Living room,cold water consumption,Toilet,0.1,26.368
+2021-01-12 10:10:00,2021-01-12,10,1,Tuesday,1,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.1,37.516
+2021-01-11 20:40:00,2021-01-11,20,0,Monday,1,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.1,29.137
+2021-01-11 20:30:00,2021-01-11,20,0,Monday,1,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.1,29.037
+2021-01-11 20:20:00,2021-01-11,20,0,Monday,1,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.1,28.937
+2022-10-03 23:30:00,2022-10-03,23,0,Monday,10,2022,S0154,APT_019,CL_D,R037,Living room,cold water consumption,Washbasin,0.1,13.101
+2022-04-17 08:30:00,2022-04-17,8,6,Sunday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.1,93.556
+2022-04-17 08:20:00,2022-04-17,8,6,Sunday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.1,93.456
+2021-01-11 21:00:00,2021-01-11,21,0,Monday,1,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.1,29.337
+2021-01-11 20:50:00,2021-01-11,20,0,Monday,1,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.1,29.237
+2021-01-11 21:20:00,2021-01-11,21,0,Monday,1,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.1,29.538
+2022-04-18 08:20:00,2022-04-18,8,0,Monday,4,2022,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.1,108.36
+2021-01-11 21:50:00,2021-01-11,21,0,Monday,1,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.1,29.84
+2021-01-11 21:30:00,2021-01-11,21,0,Monday,1,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.1,29.638
+2021-01-11 22:10:00,2021-01-11,22,0,Monday,1,2021,S0212,,,R003,Bathroom,cold water consumption,Toilet,0.1,30.041
+2021-01-09 22:30:00,2021-01-09,22,5,Saturday,1,2021,S0061,,CL_B,R021,Shared bathroom,hot water consumption,Shower,0.1,47.796
